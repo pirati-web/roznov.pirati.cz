@@ -3,8 +3,8 @@ layout: blog
 category: CLANKY
 title: 'Dojmy z Celostátního fóra Pirátů v Brně'
 date: 2018-01-13T12:06:00.032Z
-author: Libor Adámek
-authorId: libor.adamek
+author: Zdeněk Třos
+authorId: zdenek.tros
 image: /assets/img/posts/cf2018.jpg   
 tags: 'celostátní-fórum report akce'
 ---
