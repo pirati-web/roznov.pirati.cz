@@ -30,4 +30,12 @@ Můžete si např. zadat městskou firmu Komerční domy Rožnov, které zadaly 
 
 Lehce a přehledně také v aplikaci zjistíte, že např. firma Commodum několik let nazpět sponzorovala ODS, což je v jistém směru zajímavá informace...
 
+V návaznosti na to nás Piráty potěšilo potvrzení Ústavního soudu, že firmy v majetku obcí a státu musí odpovídat na dotazy veřejnosti.
+Jen nás  mrzí, že registr smluv a aplikace Hlídač státu nevznikl dříve, jelikož se už dávno mohlo v ČR odkrýt mnoho kauz, které jsou uspané už navždy. 
+
+Tímto nechceme nikoho napadat, jen na příkladech uvádíme jak funguje aplikace.
+
+V aplikaci je spousta “vychytávek“ a funkcí. Autor pan Michal Bláha pracoval několik let na ministerstvu financí a aplikací tvoří již přes rok. Vývojáři stále přidávají nové funkce a snaží se propojit co nejvíce informací, firem, jmen, institucí apod. 
+Věřím v to, že se zvýšením transparentnosti ve všech státních zakázkách se časem přiblížíme mentalitou k severským státům, kde žijí lidé, kteří již od malička jsou vedeni k čestnému životu bez korupce. Je to jen v nás a na nás, v jakém prostředí budeme vychovávat naše potomky. 
+
 - - -
