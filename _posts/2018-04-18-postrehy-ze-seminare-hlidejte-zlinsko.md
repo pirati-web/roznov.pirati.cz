@@ -8,7 +8,7 @@ authorId: zdenek.tros
 image: /assets/img/posts/hlidejtezlinsko.jpg
 tags: 'seminář hlídač-státu'
 ---
-Před nedávnem se ve Zlíně v Institutu Tomáše Bati konala přednáška pořádaná organizacemi hlidacstatu.cz, frankbold.org a rekonstrukcestatu.cz. 
+Před nedávnem se ve Zlíně v Institutu Tomáše Bati konala přednáška pořádaná organizacemi [hlidacstatu.cz](http://www.hlidacstatu.cz){:target="_blank"}, [frankbold.org](http://www.frankbold.org){:target="_blank"} a [rekonstrukcestatu.cz](http://www.rekonstrukcestatu.cz){:target="_blank"}. 
 I Piráti Zlínského kraje měli svého posluchače v publiku.
 Přednáška byla dosti poučná a v praxi nám ukázala jak funguje aplikace Hlídač státu. V ní můžete najít různé provázanosti mezi firmami, městy, lobbisty i politiky. 
 
@@ -18,7 +18,7 @@ Aplikace je provázaná s neziskovou organizací Frank Bold, která bezplatně p
 
 Na semináři jsme řešili konkrétní příklady, zadávali jsme do aplikace pana Babiše či pana Čunka nebo jsme otevřeli velmi zajímavou kauzu Krajské nemocnice Tomáše Bati.
 Jde v ní o to, že nemocnice nakoupí léky, které jsou dražší o 20% než na internetu např. za 100 mio, nechá si od pojišťovny proplatit tuto částku a pak z farmaceutické firmy zpětně inkasuje vratkou např. 30 mio., kterou již nemocnice pojišťovně nevrátí. Nikdo neví co se s těmito penězi dále děje.  Nevycházíme z konkrétního případu, uvedené částky a procenta jsou smyšlené a opíráme se jen o informace obdržené ze semináře. 
-A víte jak na to přišel přednášející pan Michal Bláha, tvůrce aplikace hlidacstatu.cz?
+A víte jak na to přišel přednášející pan Michal Bláha, tvůrce aplikace [hlidacstatu.cz](http://www.hlidacstatu.cz){:target="_blank"}?
 Nemocnice v některých případech zapomněla začernit ceny léků. A víte jak KNTB odpověděla na dotaz proč jsou léky předražené? Jednoduše - prý z farmaceutických firem zpětné dostává vratky, tudíž v důsledku léky předražené nejsou. Ale co na tento podvod řeknou pojišťovny? 
 To se snad za nějakou dobu dozvíme ze soudních jednání. 
 Proto aplikace vždy nahraje originální verzi smlouvy, kterou pak archivuje. Tím se zamezí tomu, že např. nemocnice zjistí, že zapomněla začernit ceny a smlouvu v registru smluv nahradí za již začerněnou. Nikdo by už neměl možnost zjistit tyto skutečnosti. 
