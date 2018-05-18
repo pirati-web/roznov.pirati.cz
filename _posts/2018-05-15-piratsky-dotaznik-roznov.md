@@ -15,18 +15,20 @@ Všechny otázky jsou nepovinné a pokud se rozhodnete, že budete chtít od ná
 
 **Znát Váš názor je pro nás důležité. Budeme pak za Vás prosazovat Vaše přání.**
 
-Dotazník naleznete [ZDE](https://goo.gl/forms/GFo0TFb5T1oOdviA3){:target="_blank"}
+- - -
 
 <div class="row">
   <div class="medium-12 large-12 columns">
     <div id="tlacitko" style="    text-align: center;">
-        <a href="https://goo.gl/forms/waBqPhG05aoycUS93" target="_blank" style="width: 350px; margin-top: 10px; text-align: center; padding: 22px; font-size: 22px; background-color: #5cb85c;border-color: #5cb85c; color: white;" class="c-cta-button c-cta-button--primary">
-          Máš vybráno?
-          <br> Vyplň formulář...
+        <a href="https://goo.gl/forms/GFo0TFb5T1oOdviA3" target="_blank" style="width: 350px; margin-top: 10px; text-align: center; padding: 22px; font-size: 22px; background-color: #5cb85c;border-color: #5cb85c; color: white;" class="c-cta-button c-cta-button--primary">
+          Zde vyplňte
+          <br> DOTAZNÍK
         </a>
     </div>
   </div>
 </div>
+
+- - -
 
 **Děkujeme za Váš čas.**
 
