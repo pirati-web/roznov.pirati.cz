@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Pirátský dotazník pro obyvatele Rožnova p.R.'
+title: 'Pirátský dotazník pro obyvatele Rožnova'
 date: 2018-05-18T14:00:00.032Z
 author: Libor Adámek
 authorId: libor.adamek
