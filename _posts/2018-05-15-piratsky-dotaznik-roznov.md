@@ -16,3 +16,5 @@ Všechny otázky jsou nepovinné a pokud se rozhodnete, že budete chtít od ná
 Znát Váš názor je pro nás důležité. Budeme pak za Vás prosazovat Vaše přání.
 
 Dotazník naleznete [ZDE](https://goo.gl/forms/GFo0TFb5T1oOdviA3){:target="_blank"}
+
+---
