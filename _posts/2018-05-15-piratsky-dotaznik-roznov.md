@@ -9,11 +9,11 @@ image: /assets/img/posts/dotaznik.png
 tags: 'Rožnov Pirátský-dotazník Názory-občanů'
 ---
 Vážení obyvatelé Rožnova,<br><br>
-rádi bychom věděli Váš názor na priority v Rožnově. V krátkém dotazníku můžete napsat, co Vám v Rožnově nejvíce schází a označit jak jsou pro Vás důležité některé místní témata pro budoucí vývoj města.
+rádi bychom věděli váš názor na priority v Rožnově. V krátkém dotazníku můžete napsat, co vám v Rožnově nejvíce schází a označit, jak jsou pro vás důležitá některá místní témata pro budoucí vývoj města.
 
-Všechny otázky jsou nepovinné a pokud se rozhodnete, že budete chtít od nás získávat více informací, tak v závěru dotazníku nám můžete na sebe zanechat e-mail. 
+Všechny otázky jsou nepovinné. Chcete-li od nás získávat více informací, v závěru dotazníku nám můžete na sebe zanechat e-mail.
 
-**Znát Váš názor je pro nás důležité. Budeme pak za Vás prosazovat Vaše přání.**
+**Znát váš názor je pro nás důležité. Budeme pak za vás prosazovat vaše přiority.**
 
 - - -
 
@@ -30,7 +30,7 @@ Všechny otázky jsou nepovinné a pokud se rozhodnete, že budete chtít od ná
 
 - - -
 
-**Děkujeme za Váš čas.**
+**Děkujeme za váš čas.**
 
 - - -
 
