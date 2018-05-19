@@ -13,7 +13,7 @@ rádi bychom věděli váš názor na priority v Rožnově. V krátkém dotazní
 
 Všechny otázky jsou nepovinné. Chcete-li od nás získávat více informací, v závěru dotazníku nám můžete na sebe zanechat e-mail.
 
-**Znát váš názor je pro nás důležité. Budeme pak za vás prosazovat vaše přiority.**
+**Znát váš názor je pro nás důležité. Budeme pak za vás prosazovat vaše priority.**
 
 - - -
 
