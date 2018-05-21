@@ -10,9 +10,9 @@ tags: 'seminář hlídač-státu'
 ---
 Před nedávnem se ve Zlíně v Institutu Tomáše Bati konala přednáška pořádaná organizacemi [hlidacstatu.cz](http://www.hlidacstatu.cz){:target="_blank"}, [frankbold.org](http://www.frankbold.org){:target="_blank"} a [rekonstrukcestatu.cz](http://www.rekonstrukcestatu.cz){:target="_blank"}. 
 I Piráti Zlínského kraje měli svého posluchače v publiku.
-Přednáška byla dosti poučná a v praxi nám ukázala jak funguje **aplikace Hlídač státu**. V ní můžete najít různé provázanosti mezi firmami, městy, lobbisty i politiky. 
+Přednáška byla dosti poučná a v praxi nám ukázala jak funguje aplikace Hlídač státu. V ní můžete najít různé provázanosti mezi firmami, městy, lobbisty i politiky. 
 
-**Aplikace je propojena s registrem smluv a automaticky skenuje všechny smlouvy a převádí je do elektronické podoby tak abyste mohli hledat i dle textu ve smlouvách. Chybné smlouvy pak označuje vykřičníkem. 
+**Aplikace Hlídač státu je propojena s registrem smluv a automaticky skenuje všechny smlouvy a převádí je do elektronické podoby tak abyste mohli hledat i dle textu ve smlouvách. Chybné smlouvy pak označuje vykřičníkem. 
 Ve detailních informacích o smlouvě můžete přejít na všechny smlouvy mezi danými subjekty nebo se můžete podívat s jakou firmou má daná instituce či obec nejvíce smluv apod. Dá se také hledat podrobně dle různých kritérií, podívat se na analýzy a reporty nebo si zadat aby vám chodily notifikace nových smluv u konkrétního IČ nebo osoby.**
 Aplikace je provázaná s neziskovou organizací Frank Bold, která bezplatně pomáhá lidem při řešení právních záležitostí - jednoduše pokud se Vám nějaká smlouva nezdá a myslíte si, že je např. dotčená korupcí, tak stačí v aplikaci kliknout na jedno tlačítko "pomoc právníka" a vyplnit formulář. Organizace Frank Bold také významně přispěla k zavedení registru smluv.
 
