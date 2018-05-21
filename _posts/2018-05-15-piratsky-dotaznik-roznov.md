@@ -20,7 +20,7 @@ Všechny otázky jsou nepovinné. Chcete-li od nás získávat více informací,
 <div class="row">
   <div class="medium-12 large-12 columns">
     <div id="tlacitko" style="    text-align: center;">
-        <a href="https://goo.gl/forms/GFo0TFb5T1oOdviA3" target="_blank" style="width: 350px; margin-top: 10px; text-align: center; padding: 22px; font-size: 22px; background-color: #5cb85c;border-color: #5cb85c; color: white;" class="c-cta-button c-cta-button--primary">
+        <a href="https://goo.gl/forms/GFo0TFb5T1oOdviA3" target="_blank" style="width: 300px; margin-top: 10px; text-align: center; padding: 22px; font-size: 22px; background-color: #5cb85c;border-color: #5cb85c; color: white;" class="c-cta-button c-cta-button--primary">
           Zde vyplňte
           <br> DOTAZNÍK
         </a>
