@@ -19,7 +19,9 @@ tags: 'Rožnov Pirátský-dotazník Názory-občanů'
   </div>
 </div>
 
-- - -Vážení obyvatelé Rožnova,<br><br>
+- - -
+
+Vážení obyvatelé Rožnova,<br><br>
 rádi bychom věděli Váš názor na priority v Rožnově. V krátkém dotazníku můžete napsat, co Vám v Rožnově nejvíce schází a označit, jak jsou pro Vás důležitá některá místní témata pro budoucí vývoj města.
 
 Všechny otázky jsou nepovinné. Chcete-li od nás získávat více informací, v závěru dotazníku nám můžete na sebe zanechat e-mail.
