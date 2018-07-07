@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Prohlášení Piráti Rožnov p.R.'
+title: 'Prohlášení Piráti Rožnov p/R'
 date: 2018-07-07T14:00:00.032Z
 author: Zdeněk Třos
 authorId: zdenek.tros
