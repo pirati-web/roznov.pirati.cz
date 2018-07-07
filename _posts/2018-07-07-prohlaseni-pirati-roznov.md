@@ -8,13 +8,13 @@ authorId: zdenek.tros
 image: /assets/img/posts/infografika1.jpg
 tags: 'prohlášení Rožnov transparentnost způsob-komunikace'
 ---
-Před nedávnem jsme se dozvěděli, že někteří občané Rožnova p.R. prý o nás mají mínění, že jsme napojeni na vlivnou podnikatelskou osobu či osoby a byly také náznaky, že stojíme za nejmenovanou anonymní FB stránkou.
+Před nedávnem jsme se dozvěděli, že prý někteří občané Rožnova p.R. o nás mají mínění, že jsme napojeni na vlivnou podnikatelskou osobu či osoby a byly také náznaky, že stojíme za nejmenovanou anonymní FB stránkou.
 
 **Vás všechny bychom rádi ujistili, že je tomu právě naopak.**
 
 Jsme přesvědčeni, že jsme dobrá parta s čistými úmysly. 
 
-Jdeme do komunálních voleb se srdcem na pravém místě a nemáme žádné vazby na nikoho z řad podnikatelů nebo jakýchkoliv jiných osob ve vedoucích funkcích....
+Jdeme do komunálních voleb se srdcem na správném místě a nemáme žádné vazby na nikoho z řad podnikatelů nebo jakýchkoliv jiných osob ve vedoucích funkcích...
 
 Žádný z nás nemá ani náznak střetu zájmu a není ani ve spojení s osobami, kteří by jej mohli mít....
 
