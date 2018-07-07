@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Prohlíšení Piráti Rožnov p.R.'
+title: 'Prohlášení Piráti Rožnov p.R.'
 date: 2018-07-07T14:00:00.032Z
 author: Zdeněk Třos
 authorId: zdenek.tros
@@ -12,11 +12,15 @@ Před nedávnem jsme se dozvěděli, že někteří občané Rožnova p.R. prý 
 
 **Vás všechny bychom rádi ujistili, že je tomu právě naopak.**
 
-Jsme přesvědčeni, že jsme dobrá parta s čistými úmysly. Jdeme do komunálních voleb se srdcem na pravém místě a nemáme žádné vazby na nikoho z řad podnikatelů nebo jakýchkoliv jiných osob ve vedoucích funkcích....
+Jsme přesvědčeni, že jsme dobrá parta s čistými úmysly. 
+
+Jdeme do komunálních voleb se srdcem na pravém místě a nemáme žádné vazby na nikoho z řad podnikatelů nebo jakýchkoliv jiných osob ve vedoucích funkcích....
 
 Žádný z nás nemá ani náznak střetu zájmu a není ani ve spojení s osobami, kteří by jej mohli mít....
 
 Pečlivě jsme si vybírali koho mezi sebe přijmeme a obecně u Pirátu přijímání nových členů trvá 4 měsíce - po parlamentních volbách se tento proces hodně zpřísnil...
 
-Také nejsme a snad nikdy nebudeme stranou jednoho člověka, jak na komunální, tak i na parlamentní úrovni. Jeden z hlavních pilířů našeho programu je transparentnost a pokud by si někdo myslel, že bychom stáli za anonymní FB stránkou, tak je na velikém omylu, jelikož toto počínání by bylo absolutně proti pirátským myšlenkám a proti našim zásadám, které velice ctíme.
+Také nejsme a snad nikdy nebudeme stranou jednoho člověka, jak na komunální, tak i na parlamentní úrovni. 
+
+Jeden z hlavních pilířů našeho programu je transparentnost a pokud by si někdo myslel, že bychom stáli za anonymní FB stránkou, tak je na velikém omylu, jelikož toto počínání by bylo absolutně proti pirátským myšlenkám a proti našim zásadám, které velice ctíme.
 - - -
