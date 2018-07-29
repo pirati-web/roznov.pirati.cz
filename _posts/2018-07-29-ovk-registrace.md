@@ -16,5 +16,5 @@ pro které je okrsková volební komise vytvořena.
 Dlohodobě sázíme na zapojení dobrovolníku a budeme rádi pokud se zapojíte do kontroly regulérnosti voleb. 
 Každý člen okrskové volební komise dostane odměnu 1700 Kč.
 
-Registraci naleznete na https://ovk.pirati.cz/ 
+Registraci naleznete na [ovk.pirati.cz/](https://ovk.pirati.cz/){:target="_blank"}
 - - -
