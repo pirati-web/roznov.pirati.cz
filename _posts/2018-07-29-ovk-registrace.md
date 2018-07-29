@@ -13,8 +13,8 @@ I letos na podzim bude třeba dohlédnout na regulérnost voleb do zastupitelste
 (probíhá zpravidla na prvním zasedání komise) dosáhl věku nejméně 18 let a není kandidátem pro volby do zastupitelstva obce, 
 pro které je okrsková volební komise vytvořena. 
 
-Dlohodobě sázíme na zapojení dobrovolníku a budeme rádi pokud se zapojíte do kontroly regulérnosti voleb. 
+Dlohodobě sázíme na zapojení dobrovolníku a budeme rádi, pokud se zapojíte do kontroly regulérnosti voleb. 
 Každý člen okrskové volební komise dostane odměnu 1700 Kč.
 
-Registraci naleznete na [ovk.pirati.cz/](https://ovk.pirati.cz/){:target="_blank"}
+Registraci naleznete na [ovk.pirati.cz](https://ovk.pirati.cz/){:target="_blank"}
 - - -
