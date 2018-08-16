@@ -3,5 +3,42 @@ layout: page
 title: Kandidáti do zastupitelstva
 rbar: ""
 ---
+<div class="row o-section-block o-section-block--divided">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <div class="c-BasicPage">
+            <div class="c-BasicPage-content">
+              <div class="jmk-candidates">
 
-Brzy doplníme...
+                <h2 class="jmk-msweb__headline">Kandidátka Pirátské strany pro volby do Zastupitelstva města Brna</h2>
+                <div class="row">
+                  {% assign team = site.people | where_exp:"item","item.categories contains 'kandidat'" | sort:"ordkandidat"  %}
+                  {% for item in team limit:8 %}
+                    {% include people/kandidat.html param=item order='ordkandidat' %}
+                  {% endfor %}
+
+                  {% for item in team offset:8 limit:8 %}
+                    {% include people/kandidat-small.html param=item order='ordkandidat' %}
+                  {% endfor %}
+
+                  {% include people/kandidat-mini.html order='17' name='jmeno' job='programátor' %}
+                  {% include people/kandidat-mini.html order='18' name='jmenok' job='operátor' %}
+                  {% include people/kandidat-mini.html order='19' name='jmeno' job='personalistka' %}
+                  {% include people/kandidat-mini.html order='20' name='jmeno' job='IT konzultant' %}
+                  {% include people/kandidat-mini.html order='21' name='jmeno' job='OSVČ' link='jmeno-prijmeni' %}
+                  
+
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </main>
+      </div>
+    </section>
+    <!-- /. o-section -->
+  </div>
+</div>
+
