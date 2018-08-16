@@ -12,8 +12,7 @@ rbar: ""
             <div class="c-BasicPage-content">
               <div class="jmk-candidates">
 
-                <h2 class="jmk-msweb__headline">Kandidátka Pirátské strany pro volby do Zastupitelstva města Brna</h2>
-                <div class="row">
+               <div class="row">
                   {% assign team = site.people | where_exp:"item","item.categories contains 'kandidat'" | sort:"ordkandidat"  %}
                   {% for item in team limit:8 %}
                     {% include people/kandidat.html param=item order='ordkandidat' %}
