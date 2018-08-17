@@ -14,6 +14,7 @@ profiles:
   facebook: https://www.facebook.com/zdenek.tros
   
 ordkandidat: 2
+ordclen: 2
 ---
 
 Zdeněk Třos (*15. prosince 1981, Valašské Meziříčí) je členem Pirátské strany od roku 2017. Zdeněk pochází z Rožnova p.R., kde bydlí takřka celý život.
