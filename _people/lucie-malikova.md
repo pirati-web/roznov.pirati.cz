@@ -15,6 +15,7 @@ profiles:
   facebook: https://www.facebook.com/ghostinafuego.malikova
 ordpms: 1
 ordkandidat: 4
+ordclen: 3
 ---
 
 Lucie Malíková (*3. června 1998, Olomouc) je momentálně na mateřské dovolené a přípravuje se na studium Ekonomiky a podnikání.
