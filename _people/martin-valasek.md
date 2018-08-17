@@ -11,6 +11,8 @@ mail:
 - martin.valasek@pirati.cz
 profiles:
   facebook: https://www.facebook.com/martin.malarie
+  
+ordclen: 6  
 ---
 
 Martin Valášek (*4. března 1966, Český Těšín) po obsolvování ZDŠ v Českém Těšíně a gymnázia ve třídě se zaměřením na matematiku v Bílovci napodruhé složil závěrečné státní zkoušky na Stavební fakultě VUT Brno. Už během studií se aktivně zajímal o hudbu, za organizaci koncertu ve studentském klubu Topas byl podmínečně vyloučen ze školy.
