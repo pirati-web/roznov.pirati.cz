@@ -4,7 +4,7 @@ name:     Denis Rychtar  	# běžně používáné jméno
 fullname: Denis Rychtar  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - pms
-- clenove
+
 
 img: people/denis-rychtar.jpg   # 165 x 220
 description: 1. místopředseda MS ValMez, chemik-velinář # kratký popis, max 160 znaků
