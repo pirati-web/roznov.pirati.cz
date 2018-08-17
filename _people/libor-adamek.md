@@ -15,6 +15,7 @@ profiles:
   facebook: https://www.facebook.com/adamek.libor
 ordpms: 3
 ordkandidat: 1
+ordclen: 1
 ---
 
 Libor Adámek (*26. září 1972, Valašské Meziříčí) je rodilý valach a trvalý občan města Rožnov pod Radhoštěm.
