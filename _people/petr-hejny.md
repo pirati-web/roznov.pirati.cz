@@ -14,6 +14,7 @@ profiles:
   facebook: https://www.facebook.com/petr.hejny.7
   
 ordkandidat: 3
+ordclen: 4
 ---
 
 Petr Hejný (*22. května 1984, Valašské Meziříčí) je ženatý a má dvě děti. Při práci vystudoval Vysokou školu podnikání ve studijním programu Ekonomika a management.
