@@ -4,6 +4,7 @@ name:     Stanislav Šenkýř  	# běžně používáné jméno
 fullname: Stanislav Šenkýř  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- kandidat
 
 img: people/stanislav-senkyr.jpg   # 165 x 220
 description: student # kratký popis, max 160 znaků
@@ -12,7 +13,8 @@ mail:
 profiles:
   facebook: https://www.facebook.com/channkoslav
   
-ordclen: 5  
+ordclen: 5
+ordkandidat: 7
 ---
 
 Stanislav Šenkýř (*15. června 1999, Valašské Meziříčí) je studentem maturitního ročníku osmiletého studia na Gymnáziu v Rožnově pod Radhoštěm, v posledních letech se zaměřuje spíše na matematiku, fyziku, informatiku a cizí jazyky. Po ukončení středoškolského studia plánuje pokračovat ve studiu na Matematicko-fyzikální fakultě Univerzity Karlovy, na oboru Matematika pro informační technologie.
