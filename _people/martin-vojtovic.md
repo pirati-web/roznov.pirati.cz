@@ -8,7 +8,7 @@ category:                   # kategorie: clenove
 img: people/martin-vojtovic.jpg   # 165 x 220
 description: pracovník v kultuře # kratký popis, max 160 znaků
 mail:
-- stanislav.senkyr@pirati.cz
+- 
 profiles:
   facebook: https://www.facebook.com/vojtovic.martin
   
