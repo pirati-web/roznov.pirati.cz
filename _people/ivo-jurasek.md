@@ -12,6 +12,6 @@ mail:
 profiles:
   facebook: https://www.facebook.com/profile.php?id=100008980427179
   
-ordkandidat: 11
+ordkandidat: 8
 ---
 Ivo Jurásek
