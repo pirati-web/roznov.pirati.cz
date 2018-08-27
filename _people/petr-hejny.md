@@ -1,13 +1,13 @@
 ---
 uid: petr.hejny
-name:     Petr Hejný  	# běžně používáné jméno
-fullname: Ing., DiS. Petr Hejný  	# jméno s tituly etc.
+name:     Ing. Petr Hejný DiS.  	# běžně používáné jméno
+fullname: Ing. Petr Hejný DiS  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - kandidat
 
 img: people/petr-hejny.jpg   # 165 x 220
-description: plánovač výroby # kratký popis, max 160 znaků
+description: 34 let<br>plánovač výroby<br>člen Pirátů # kratký popis, max 160 znaků
 mail:
 - petr.hejny@pirati.cz
 profiles:
