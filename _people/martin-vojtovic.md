@@ -1,12 +1,12 @@
 ---
 uid: martin.vojtovic
-name:     Martin Vojtovič  	# běžně používáné jméno
-fullname: Bc., DiS. Martin Vojtovič  	# jméno s tituly etc.
+name:     Bc. Martin Vojtovič DiS.  	# běžně používáné jméno
+fullname: Bc. Martin Vojtovič DiS  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - kandidat
 
 img: people/martin-vojtovic.jpg   # 165 x 220
-description: pracovník v kultuře # kratký popis, max 160 znaků
+description: 34 let<br>pracovník v kultuře<br>nezávislý kandidát # kratký popis, max 160 znaků
 mail:
 - 
 profiles:
