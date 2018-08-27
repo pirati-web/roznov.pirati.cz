@@ -1,11 +1,11 @@
 ---
 uid: hana.trosova
 name:     Hana Třosová 	# běžně používáné jméno
-fullname: Hana Třosováň  	# jméno s tituly etc.
+fullname: Hana Třosová  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - kandidat
 
-img: people/hama-trosova.jpg   # 165 x 220
+img: people/hana-trosova.jpg   # 165 x 220
 description: OSVČ # kratký popis, max 160 znaků
 mail:
 - 
@@ -16,4 +16,4 @@ ordkandidat: 20
 ---
 Věk 59 let, pracuje jako realitní makleřka. 
 
-Zajímá se o problematiku péče o stárnoucí  lidi.
+Zajímá se o problematiku péče o stárnoucí lidi.
