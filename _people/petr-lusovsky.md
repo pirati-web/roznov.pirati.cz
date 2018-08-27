@@ -1,12 +1,12 @@
 ---
 uid: petr.lusovsky
-name:     Petr Lušovský  	# běžně používáné jméno
+name:     Ing. Petr Lušovský  	# běžně používáné jméno
 fullname: Ing. Petr Lušovský  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - kandidat
 
 img: people/petr-lusovsky.jpg   # 165 x 220
-description: správce e-shopu # kratký popis, max 160 znaků
+description: 25 let<br>správce e-shopu<br>nezávislý kandidát # kratký popis, max 160 znaků
 mail:
 - lusov@seznam.cz
 profiles:
