@@ -14,4 +14,6 @@ profiles:
   
 ordkandidat: 11
 ---
-Michal Tonhauser 
+Pracoval na pozicích obchodního zástupce a produktového manažera, v současné době provozuje kavárnu.
+
+Zajímá se o hudbu, film, literaturu a kulturu obecně, s Piráty sdílí liberální postoje a důraz na ekologii.
