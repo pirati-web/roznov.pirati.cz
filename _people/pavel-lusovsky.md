@@ -1,12 +1,12 @@
 ---
 uid: pavel.lusovsky
-name:     Pavel Lušovský  	# běžně používáné jméno
+name:     Ing. Pavel Lušovský  	# běžně používáné jméno
 fullname: Ing. Pavel Lušovský  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - kandidat
 
 img: people/pavel-lusovsky.jpg   # 165 x 220
-description: OSVČ # kratký popis, max 160 znaků
+description: 51 let<br>ekonom, OSVČ<br>nezávislý kandidát # kratký popis, max 160 znaků
 mail:
 - 
 profiles:
