@@ -14,4 +14,9 @@ profiles:
   
 ordkandidat: 12
 ---
-Ondřej Pohořelský
+Ondřej Pohořelský (17. Října 1998, Valašské Meziříčí) je student 1. ročníku Fakulty informatiky na Masarykově univerzitě. Předtím vystudoval obor Zpracování informací na Střední škole informatiky, elektrotechniky a řemesel v Rožnově pod Radhoštěm. 
+Při studiu pracuje ve firmě NXP, kde programuje mikrokontrolery. 
+
+Mezi jeho největší koníčky patří paragliding a jízda na in-line bruslích.
+
+Piráty podporuje, jelikož sympatizuje s pirátskou politikou, podporuje svobodu a transparentnost.
