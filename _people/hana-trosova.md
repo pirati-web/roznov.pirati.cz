@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/hana-trosova.jpg   # 165 x 220
-description: OSVČ # kratký popis, max 160 znaků
+description: 59 let<br>realitní makléř, OSVČ<br>nezávislý kandidát # kratký popis, max 160 znaků
 mail:
 - 
 profiles:
