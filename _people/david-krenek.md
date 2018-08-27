@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/david-krenek.jpg   # 165 x 220
-description: OSVČ # kratký popis, max 160 znaků
+description: 26 let<br>živnostník<br>nezávislý kandidát # kratký popis, max 160 znaků
 mail:
 - 
 profiles:
