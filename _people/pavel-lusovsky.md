@@ -10,7 +10,7 @@ description: OSVČ # kratký popis, max 160 znaků
 mail:
 - 
 profiles:
-  facebook: https://www.facebook.com/pavel.rybon
+  facebook: https://www.facebook.com/pavel.lusovsky
   
 ordkandidat: 16
 ---
