@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/zdenek-tros.jpg   # 165 x 220
-description: OSVČ, jednatel # kratký popis, max 160 znaků
+description: 36 let<br>OSVČ, jednatel<br>člen Pirátů # kratký popis, max 160 znaků
 mail:
 - zdenek.tros@pirati.cz
 profiles:
