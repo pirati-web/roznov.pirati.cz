@@ -14,4 +14,8 @@ profiles:
   
 ordkandidat: 8
 ---
-Ivo Jurásek
+Anglista a překladatel z anglického jazyka na volné noze, v současnosti také živnostník a provozovatel kavárny. 
+
+Snaží se zasadit o ekologickou a zodpovědnou spotřebu. 
+
+Ve volném čase se věnuje rodině, cestování a zahradnictví.
