@@ -8,7 +8,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/libor-adamek.jpg   # 165 x 220
-description: 2. místopředseda MS ValMez, prodejce kancelářské techniky # kratký popis, max 160 znaků
+description: 46 let<br>2. místopředseda MS Piráti ValMez<br>prodejce kancelářské techniky # kratký popis, max 160 znaků
 mail:
 - libor.adamek@pirati.cz
 profiles:
