@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/pavel-rybon.jpg   # 165 x 220
-description: inspektor kvality # kratký popis, max 160 znaků
+description: 31 let<br>inspektor kvality<br>nezávislý kandidát # kratký popis, max 160 znaků
 mail:
 - 
 profiles:
