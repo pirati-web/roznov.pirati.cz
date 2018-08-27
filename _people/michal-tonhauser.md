@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/michal-tonhauser.jpg   # 165 x 220
-description: obchodní cestující # kratký popis, max 160 znaků
+description: 42 let<br>obchodní cestující<br>nezávislý kandidát # kratký popis, max 160 znaků
 mail:
 - 
 profiles:
