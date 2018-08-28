@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/ondrej-pohorelsky.jpg   # 165 x 220
-description: 19 let<br>student<br>nezávislý kandidát # kratký popis, max 160 znaků
+description: 19 let<br>student VŠ<br>nezávislý kandidát # kratký popis, max 160 znaků
 mail:
 - 
 profiles:
