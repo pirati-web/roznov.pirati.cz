@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/stanislav-senkyr.jpg   # 165 x 220
-description: 19 let<br>student<br>člen Pirátů # kratký popis, max 160 znaků
+description: 19 let<br>student VŠ<br>člen Pirátů # kratký popis, max 160 znaků
 mail:
 - stanislav.senkyr@pirati.cz
 profiles:
