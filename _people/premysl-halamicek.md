@@ -14,4 +14,8 @@ profiles:
   
 ordkandidat: 9
 ---
-Přemysl Halamíček
+Přemysl Halamíček, absolvent Hornicko-geologické fakulty VŠB. 
+
+Nyní pracuje jako plánovač výroby pro zahraniční firmu. Pracovní zkušenosti získal mimojiné i jako referent marketigu ve Valašském muzeu v přírodě. 
+
+Mezi jeho záliby patří hlavně geocaching a jízda na koloběžce.
