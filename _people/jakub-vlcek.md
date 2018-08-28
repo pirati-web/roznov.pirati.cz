@@ -5,7 +5,7 @@ fullname: Mgr. Jakub Vlček  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - kandidat
 
-img: people/unknown-pirate.jpg   # 165 x 220
+img: people/jakub-vlcek.jpg   # 165 x 220
 description: 31 let<br>vědecký pracovník<br>nezávislý kandidát # kratký popis, max 160 znaků
 mail:
 - 
