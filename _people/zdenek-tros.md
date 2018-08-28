@@ -4,13 +4,17 @@ name:     Zdeněk Třos  	# běžně používáné jméno
 fullname: Zdeněk Třos  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- kandidat
 
 img: people/zdenek-tros.jpg   # 165 x 220
-description: OSVČ, jednatel # kratký popis, max 160 znaků
+description: 36 let<br>OSVČ, jednatel<br>člen Pirátů # kratký popis, max 160 znaků
 mail:
 - zdenek.tros@pirati.cz
 profiles:
   facebook: https://www.facebook.com/zdenek.tros
+  
+ordkandidat: 2
+ordclen: 2
 ---
 
 Zdeněk Třos (*15. prosince 1981, Valašské Meziříčí) je členem Pirátské strany od roku 2017. Zdeněk pochází z Rožnova p.R., kde bydlí takřka celý život.

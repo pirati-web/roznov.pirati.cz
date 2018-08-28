@@ -5,14 +5,17 @@ fullname: Lucie Malíková  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - pms
+- kandidat
 
 img: people/lucie-malikova.jpg   # 165 x 220
-description: předsedkyně MS ValMez, na mateřské dovolené # kratký popis, max 160 znaků
+description: 20 let<br>mateřská dovolená, student VŠ<br>předsedkyně Pirátů MS ValMez # kratký popis, max 160 znaků
 mail:
 - lucie.malikova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/ghostinafuego.malikova
 ordpms: 1
+ordkandidat: 4
+ordclen: 3
 ---
 
 Lucie Malíková (*3. června 1998, Olomouc) je momentálně na mateřské dovolené a přípravuje se na studium Ekonomiky a podnikání.
