@@ -1,7 +1,7 @@
 ---
 uid: martin.vojtovic
-name:     Bc. Martin Vojtovič DiS.  	# běžně používáné jméno
-fullname: Bc. Martin Vojtovič DiS  	# jméno s tituly etc.
+name:     Bc. Martin Vojtovič, DiS.  	# běžně používáné jméno
+fullname: Bc. Martin Vojtovič, DiS.  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - kandidat
 
