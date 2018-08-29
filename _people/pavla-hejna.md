@@ -13,4 +13,8 @@ profiles:
   facebook:https://www.facebook.com/pavlamatova
 ordkandidat: 10
 ---
-Pavla Hejná
+Absolventka VŠB ekonomické fakulty. 
+
+V současné době na mateřské dovolené. Před narozením dvou synů pracovala jako zástupce vedoucí prodejny ve VM. 
+
+K zálibám patří Tai-Chi, geocaching a jízda na kole.
