@@ -5,7 +5,7 @@ fullname: Martin Vlček  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - kandidat
 
-img: people/unknown-pirate.jpg   # 165 x 220
+img: people/martin-vlcek.jpg   # 165 x 220
 description: 30 let<br>elektrotechnik<br>nezávislý kandidát # kratký popis, max 160 znaků
 mail:
 - 

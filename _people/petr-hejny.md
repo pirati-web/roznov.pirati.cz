@@ -1,7 +1,7 @@
 ---
 uid: petr.hejny
-name:     Ing. Petr Hejný DiS.  	# běžně používáné jméno
-fullname: Ing. Petr Hejný DiS  	# jméno s tituly etc.
+name:     Ing. Petr Hejný, DiS.  	# běžně používáné jméno
+fullname: Ing. Petr Hejný, DiS.  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - kandidat

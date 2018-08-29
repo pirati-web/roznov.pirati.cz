@@ -14,6 +14,6 @@ profiles:
   
 ordkandidat: 20
 ---
-Věk 59 let, pracuje jako realitní makleřka. 
+Pracuje jako realitní makléř. 
 
-Zajímá se o problematiku péče o stárnoucí lidi.
+Po zkušenostech s dloholetou péčí o osobu blízkou ji zajímají témata týkající se sociální oblasti .
