@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/pavel-lusovsky.jpg   # 165 x 220
-description: 51 let<br>ekonom, OSVČ<br>nezávislý kandidát # kratký popis, max 160 znaků
+description: 51 let<br>ekonom<br>nezávislý kandidát # kratký popis, max 160 znaků
 mail:
 - 
 profiles:
