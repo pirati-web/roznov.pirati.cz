@@ -8,7 +8,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/lucie-malikova.jpg   # 165 x 220
-description: 20 let<br>mateřská dovolená<br>student ekonomiky a podnikání<br>předsedkyně Pirátů MS ValMez # kratký popis, max 160 znaků
+description: 20 let, mateřská dovolená<br>student ekonomiky a podnikání<br>předsedkyně Pirátů MS ValMez # kratký popis, max 160 znaků
 mail:
 - lucie.malikova@pirati.cz
 profiles:
