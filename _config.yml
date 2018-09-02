@@ -9,8 +9,8 @@
 title: Pirátská strana | RpR
 email: to@pirati.cz
 description: > # this means to ignore newlines until "baseurl:"
-  Web místního sdružení České pirátské strany v Rožnově pod Radhoštěm.
-url: "https://www.pirati.cz" # the base hostname & protocol for your site
+  Web Pirátů z Rožnova pod Radhoštěm.
+url: "https://roznov.pirati.cz" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
