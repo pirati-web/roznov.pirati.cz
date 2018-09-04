@@ -6,9 +6,11 @@ category:                   # kategorie: clenove
 - clenove
 - pms
 - kandidat
+- kontakt
 
 img: people/libor-adamek.jpg   # 165 x 220
 description: 46 let<br>prodejce kancelářské techniky<br>2. místopředseda Pirátů MS ValMez # kratký popis, max 160 znaků
+mob:   +420 604 791 192
 mail:
 - libor.adamek@pirati.cz
 profiles:
@@ -16,6 +18,7 @@ profiles:
 ordpms: 3
 ordkandidat: 1
 ordclen: 1
+ordkontakty: 2 
 ---
 
 Libor Adámek (*1972, Valašské Meziříčí) je rodilý valach a trvalý občan města Rožnov pod Radhoštěm.
