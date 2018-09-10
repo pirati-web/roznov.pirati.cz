@@ -13,6 +13,15 @@ profiles:
   facebook: https://www.facebook.com/petr.lusovsky.5
   
 ordkandidat: 5
+
+supporting:
+- podporuji
+- podporuji
+notsupporting:
+- nepodporuji
+- nepodporuji
+
+motto: 'Motto motototo mototo Motto motototo mototo Motto motototo mototo Motto motototo mototo'
 ---
 
 Petr Lušovský (* 29. dubna 1993, Zlín) bydlí v Rožnově od svých šesti let, je hrdý na svůj region a valašské nářečí.
