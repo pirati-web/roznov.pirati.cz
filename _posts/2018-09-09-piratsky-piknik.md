@@ -29,7 +29,7 @@ Těšíme se na předvolební kampaň.
 
 Pirátský Piknik proběhl díky participativnímu rozpočtu Pirátské strany.
 
-Fotoreportáž najdete zde https://www.facebook.com/media/set/?set=a.1843691979085287&type=1&l=0cfa0a599a
+Fotoreportáž najdete [ZDE](https://www.facebook.com/media/set/?set=a.1843691979085287&type=1&l=0cfa0a599a){:target="_blank"}
 
 Videoreportáž tady.
 
