@@ -13,7 +13,7 @@ jak my si představujeme fungování Smart City v Rožnově.
 
 ### Veřejné osvětlení
 Smart osvětlení je pro nás LED (s vhodnou chromatičností), které je v hluboké noci stmívatelné. 
-Jsme rádi, že letos vypsalo město první výběrové řízení na změnu zastaralého osvětlení v částech Záhumení a Rybníčky. Prostudovali jsme požadavky a jsme s nimi spokojeni. Ve výběrovém řízení se počítá se stmíváním na 50% výkonu od 22:00, což otevřeme diskuzi nad posunutím doby aspoň na 22:30 ať se i zaměstnanci z odpolední bezpečně dostanou domů. Naopak při souvislé sněhové vrstvě, (odrazivost sněhu je daleko větší než asfaltu) jsme pro stmívání již od 21 hodiny, nebo pro redukci výkonu třeba na 80%.
+Jsme rádi, že letos vypsalo město první výběrové řízení na změnu zastaralého osvětlení v částech Záhumení a Rybníčky, my hodláme pokračovat i v dalších částech města. Prostudovali jsme požadavky a jsme s nimi spokojeni. Ve výběrovém řízení se počítá se stmíváním na 50% výkonu od 22:00, což otevřeme diskuzi nad posunutím doby aspoň na 22:30 ať se i zaměstnanci z odpolední bezpečně dostanou domů. Naopak při souvislé sněhové vrstvě, (odrazivost sněhu je daleko větší než asfaltu) jsme pro stmívání již od 21 hodiny, nebo pro redukci výkonu třeba na 80%.
 
 ### Chytré parkování
 Jsme pro zavedení ukazatelů, které nejenom ušetří občanům spoustu času s vyhledáváním volných míst, 
