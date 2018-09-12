@@ -34,6 +34,6 @@ Rádi bychom vyměnili stávající kontejnery, za ty které nám samy řeknou, 
 Po vzoru některých světových metropolí, zavedeme na zastávkách elektronické tabule indikující nejbližší odjezdy autobusů.
 Odpočítávání na semaforech
 
-Na závěr taková třešnička na dortu. Intenzivně se budeme zabývat možností zavést odpočítávání na semaforu. Jak pro chodce, tak i pro vozidla. V ČR tento systém není moc rozšířen. Zatím jsme dohledali, že se používá na některých křižovatkách v Mostě. Od tohoto systému si slibujeme, že nám pomůže zlepšit průjezdnost křižovatek. Hlavně rozjezdy díky nepozorným řidičům nebo kamiónům bývají těžkopádné a ve špičce tak semafor nezvládne odbavit všechny čekající řidiče.  Nejen, že tak budeme dříve doma, ale budeme i dýchat lepší vzduch.
+Na závěr taková třešnička na dortu. Intenzivně se budeme zabývat možností zavést **odpočítávání na semaforu**. Jak pro chodce, tak i pro vozidla. V ČR tento systém není moc rozšířen. Zatím jsme dohledali, že se používá na některých křižovatkách v Mostě. Od tohoto systému si slibujeme, že nám pomůže zlepšit průjezdnost křižovatek. Hlavně rozjezdy díky nepozorným řidičům nebo kamiónům bývají těžkopádné a ve špičce tak semafor nezvládne odbavit všechny čekající řidiče.  Nejen, že tak budeme dříve doma, ale budeme i dýchat lepší vzduch.
 
 - - -
