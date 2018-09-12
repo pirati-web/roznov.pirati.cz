@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Co si představujeme pod pojmem Smart city'
-date: 2018-09-09T12:00:00.032Z
+date: 2018-09-12T12:00:00.032Z
 author: Petr Hejný
 authorId: petr.hejny
 image: /assets/img/posts/smartcityinfografika.jpg
