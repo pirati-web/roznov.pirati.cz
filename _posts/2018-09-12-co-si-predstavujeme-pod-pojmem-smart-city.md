@@ -12,8 +12,8 @@ Pojem Smart City se stává jedním z hesel předvolebního boje. Rádi bychom 
 jak my si představujeme fungování Smart City v Rožnově.
 
 ### Veřejné osvětlení
-Smart osvětlení je pro nás LED (s dobrou chromatičností), které je v hluboké noci stmívatelné. 
-Jsme rádi, že letos vypsalo město první výběrové řízení na změnu zastaralého osvětlení v částech Záhumení a Rybníčky. Prostudovali jsme požadavky a jsme s nimi spokojeni. Ve výběrovém řízení se počítá se stmíváním na 50% výkonu od 22:00, což otevřeme diskuzi nad posunutím doby aspoň na 22:30 ať se i zaměstnanci z odpolední bezpečně dostanou domů. Naopak při souvislé sněhové vrstvě, (odrazivost sněhu je daleko větší než asfaltu) jsme pro stmívání jíž od 21hodiny, nebo pro redukci výkonu třeba na 80%.
+Smart osvětlení je pro nás LED (s vhodnou chromatičností), které je v hluboké noci stmívatelné. 
+Jsme rádi, že letos vypsalo město první výběrové řízení na změnu zastaralého osvětlení v částech Záhumení a Rybníčky. Prostudovali jsme požadavky a jsme s nimi spokojeni. Ve výběrovém řízení se počítá se stmíváním na 50% výkonu od 22:00, což otevřeme diskuzi nad posunutím doby aspoň na 22:30 ať se i zaměstnanci z odpolední bezpečně dostanou domů. Naopak při souvislé sněhové vrstvě, (odrazivost sněhu je daleko větší než asfaltu) jsme pro stmívání již od 21 hodiny, nebo pro redukci výkonu třeba na 80%.
 
 ### Chytré parkování
 Jsme pro zavedení ukazatelů, které nejenom ušetří občanům spoustu času s vyhledáváním volných míst, 
@@ -31,7 +31,7 @@ Chceme ať se obyvatelé a návštěvníci města mohou zdarma připojit k Wi-F
 Rádi bychom vyměnili stávající kontejnery, za ty které nám samy řeknou, že jsou plné. Tímto způsobem budeme efektivně vyvážet odpady. A občané by se tak už neměli setkat s plnými kontejnery na tříděný odpad.
 
 ### Světelný jízdní řád na vybraných zastávkách autobusů
-Po vzoru některých světelných metropolí, zavedeme na zastávkách elektronické tabule indikující nejbližší odjezdy autobusů.
+Po vzoru některých světových metropolí, zavedeme na zastávkách elektronické tabule indikující nejbližší odjezdy autobusů.
 Odpočítávání na semaforech
 
 Na závěr taková třešnička na dortu. Intenzivně se budeme zabývat možností zavést odpočítávání na semaforu. Jak pro chodce, tak i pro vozidla. V ČR tento systém není moc rozšířen. Zatím jsme dohledali, že se používá na některých křižovatkách v Mostě. Od tohoto systému si slibujeme, že nám pomůže zlepšit průjezdnost křižovatek. Hlavně rozjezdy díky nepozorným řidičům nebo kamiónům bývají těžkopádné a ve špičce tak semafor nezvládne odbavit všechny čekající řidiče.  Nejen, že tak budeme dříve doma, ale budeme i dýchat lepší vzduch.
