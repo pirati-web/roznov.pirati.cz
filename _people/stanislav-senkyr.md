@@ -18,8 +18,10 @@ ordclen: 5
 ordkandidat: 7
 ---
 
-Stanislav Šenkýř (*15. června 1999, Valašské Meziříčí) je studentem maturitního ročníku osmiletého studia na Gymnáziu v Rožnově pod Radhoštěm, v posledních letech se zaměřuje spíše na matematiku, fyziku, informatiku a cizí jazyky. Po ukončení středoškolského studia plánuje pokračovat ve studiu na Matematicko-fyzikální fakultě Univerzity Karlovy, na oboru Matematika pro informační technologie.
+Stanislav Šenkýř (* 15. červen 1999) je členem Pirátské strany od řijna 2017. Pochází z Rožnova pod Radhoštěm, od června 2018 však přechodně pobývá v Praze-Holešovicích. Osobně by se chtěl zasloužit o to, aby se o politiku na jakékoliv úrovni zajímalo více mladých lidí. Mezi jeho cíle patří větší otevření a zjednodušení komunální politiky.
 
-Jeho pracovní zkušenosti vzhledem k nízkému věku čítají pouze příležitostné brigády. Mezi ty významnější patří pozice průvodce ve Valašském muzeu v přírodě v Rožnově pod Radhoštěm nebo časté moderování akcí Střediska volného času v Rožnově pod Radhoštěm.
+Vystudoval všeobecné Gymnázium v Rožnově pod Radhoštěm. Od září 2018 plánuje nastoupit do bakalářského studia na Matematicko-fyzikální fakultě Univerzity Karlovy, obor Matematika pro IT.
 
-Mezi jeho záliby patří hudba (tvorba, hra na kytaru, zpěv i poslech), dále psaní, programování na amatérské úrovni a textová sazba. Dále se zájmově věnuje korektuře a cizím jazykům (angličtina, ruština a norština).
+V současné době pracuje jako Check-In Agent na Letišti Václava Havla v Praze. Jinak jeho pracovní zkušenosti čítají pouze příležitostné brigády. Mezi ty významnější patří pozice průvodce ve Valašském muzeu v přírodě v Rožnově pod Radhoštěm nebo práce pro Středisko volného času v Rožnově pod Radhoštěm.
+
+Mezi jeho záliby patří hudba (tvorba, hra na kytaru, zpěv i poslech), dále psaní, programování na amatérské úrovni a textová sazba. Dále se zájmově věnuje korektuře a cizím jazykům (angličtina, ruština a norština). 
