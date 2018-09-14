@@ -20,17 +20,20 @@ Podstatnou část našeho rozpočtu tvoří dobrovolná aktivita našich členů
 
 ### Výdajové položky volební kampaně
 Výdajové položky kampaně za celý Zlínský kraj. U každé položky je uvedeno město, za co a komu se částka uhradila.<br />
-https://wiki.pirati.cz/fo/hospodareni2018/rozpocty/zlinsko/220500151<br /><br />
+https://wiki.pirati.cz/fo/hospodareni2018/rozpocty/zlinsko/220500151
+<br /><br />
 
 
 ### Rozpočet Pirátů Krajského sdružení Zlínského kraje
 Rozpočet pirátů ze Zlínského kraje za rok 2018 rozdělený na příjmy a výdaje.<br />
-https://wiki.pirati.cz/fo/hospodareni2018/rozpocty/zlinsko/start<br /><br />
+https://wiki.pirati.cz/fo/hospodareni2018/rozpocty/zlinsko/start
+<br /><br />
 
 
 ### Zdroje peněz Pirátů
 Zde naleznete centrální rozpočet Pirátů za rok 2018.<br />
-https://wiki.pirati.cz/fo/hospodareni2018/rozpocty/strana/start<br /><br />
+https://wiki.pirati.cz/fo/hospodareni2018/rozpocty/strana/start
+<br /><br />
 
 
 ### Finanční účty Pirátů
