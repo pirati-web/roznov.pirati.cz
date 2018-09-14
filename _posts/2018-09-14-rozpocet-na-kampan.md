@@ -15,17 +15,17 @@ Nyní zcela otevřeně zveřejňujeme přesná čísla.
 
 ### Rozpočet volební kampaně
 Podstatnou část našeho rozpočtu tvoří dobrovolná aktivita našich členů a přiznivců, které si moc vážíme a všem za ni děkujeme.<br />
-**Plánovaný finanční rozpočet na kampaň pro komunální volby v Rožnově je 54 110 Kč.**
+**Plánovaný finanční rozpočet na kampaň pro komunální volby v Rožnově je 54 110 Kč.**<br />
 
 
 ### Výdajové položky volební kampaně
 Výdajové položky kampaně za celý Zlínský kraj. U každé položky je uvedeno město, za co a komu se částka uhradila.<br />
-https://wiki.pirati.cz/fo/hospodareni2018/rozpocty/zlinsko/220500151
+https://wiki.pirati.cz/fo/hospodareni2018/rozpocty/zlinsko/220500151<br />
 
 
 ### Rozpočet Pirátů Krajského sdružení Zlínského kraje
 Rozpočet pirátů ze Zlínského kraje za rok 2018 rozdělený na příjmy a výdaje.<br />
-https://wiki.pirati.cz/fo/hospodareni2018/rozpocty/zlinsko/start
+https://wiki.pirati.cz/fo/hospodareni2018/rozpocty/zlinsko/start<br />
 
 
 ### Zdroje peněz Pirátů
