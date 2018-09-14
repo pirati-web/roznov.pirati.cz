@@ -45,10 +45,11 @@ A bohužel případy, kdy jsme se nedočkali odpovědi.
 
 
 Pokračování a rozvoj používání této platformy, budeme nadále podporovat, protože v tom vidíme možnost zapojení občanů do dění ve městě a participaci na vývoji města.
+
 Jelikož již máme zkušenosti s používáním této platformy tak v případě zvolení do zastupitelstva, budeme prosazovat:
-⦁	Aby na každý nový podmět přišla odpověď nejpozději do 4 pracovních dnů (tato první odpověď nemusí být nijak konkrétní. Důležité je, aby občan dostal jistotu, že se podmětem někdo zabývá)
-⦁	Zavedeme 1x za půl roku setkání se zadavateli těch příspěvků, které se zatím nepodařilo vyřešit. Setkání by mělo být za účasti vedení radnice a povede se  diskuze, zda jsou podměty realizovatelné.
-⦁	 Zasadíme se o to, aby na všechny již zadané podměty přišla odpověď od města.
+<ul><li>Aby na každý nový podmět přišla odpověď nejpozději do 4 pracovních dnů (tato první odpověď nemusí být nijak konkrétní. Důležité je, aby občan dostal jistotu, že se podmětem někdo zabývá).</li>
+<li>Zavedeme 1x za půl roku setkání se zadavateli těch příspěvků, které se zatím nepodařilo vyřešit. Setkání by mělo být za účasti vedení radnice a povede se  diskuze, zda jsou podměty realizovatelné.</li>
+<li>Zasadíme se o to, aby na všechny již zadané podměty přišla odpověď od města.</li></ul>
 
 
 - - -
