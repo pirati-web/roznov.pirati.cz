@@ -1,12 +1,12 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Náš rozpočet na kampaň v komunálních volbách'
+title: 'Zkušenosti s lepsimisto.cz'
 date: 2018-09-14T12:00:00.032Z
-author: Libor Adámek
-authorId: libor.adamek
-image: /assets/img/posts/transparentniinfografika.jpg
-tags: 'transparentnost otevrene-ucetnictvi rozpocet volebni-kampan'
+author: Ing. Petr Hejný, DiS.
+authorId: petr.hejny
+image: /assets/img/posts/lepsimistoinfo.jpg
+tags: 'reseni-problemu'
 ---
 Znáte Lepsimisto.cz? My ano a tady jsou naše dlouhodobé zkušenosti.
 Není obvyklé chválit práci vedení radnice, ale přece jenom bychom rádi upozornili na věc, která se za poslední čtyři roky rozjela, jsme s ní relativně spokojení a sami ji využíváme.
