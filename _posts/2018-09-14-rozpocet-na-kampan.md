@@ -30,7 +30,7 @@ https://wiki.pirati.cz/fo/hospodareni2018/rozpocty/zlinsko/start<br />
 
 ### Zdroje peněz Pirátů
 Zde naleznete centrální rozpočet Pirátů za rok 2018.<br />
-https://wiki.pirati.cz/fo/hospodareni2018/rozpocty/strana/start
+https://wiki.pirati.cz/fo/hospodareni2018/rozpocty/strana/start<br />
 
 
 ### Finanční účty Pirátů
