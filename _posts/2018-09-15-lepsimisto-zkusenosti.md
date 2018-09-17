@@ -11,16 +11,17 @@ tags: 'reseni-problemu'
 ### Znáte Lepsimisto.cz? My ano a tady jsou naše dlouhodobé zkušenosti.
 Není obvyklé chválit práci vedení radnice, ale přece jenom bychom rádi upozornili na věc, která se za poslední čtyři roky rozjela, jsme s ní relativně spokojení a sami ji využíváme.
 
-Jedná se o platformu [www.lepsimisto.cz](www.lepsimisto.cz){:target="_blank"}  Pro ty, kteří ji ještě neznáte tak tato platforma slouží k hlášení závad, ale také nápadů na zlepšení míst ve Vašem okolí. Považujeme to, za výrazný krok ke zvýšení angažovanosti občanů. V této platformě je možné hlásit různé nedostatky – jako jsou rozbité lavičky, koše nebo nefunkční lampy veřejného osvětlení. Také je zde možnost přidávání námětů na zlepšení, třeba kde je možno dodělat chodník, nebo přidání dopravního zrcadla.
-Sami jsme již podali již 17 námětů. Některé byly již úspěšně vyřešené, jiné stále čekají na vyřešení a některé byly označeny jako neřešitelné.
-Z vyřešených můžeme například jmenovat tyto:
+Jedná se o platformu [www.lepsimisto.cz](https://www.lepsimisto.cz/){:target="_blank"} <br />Pro ty, kteří ji ještě neznáte tak tato platforma slouží k hlášení závad, ale také nápadů na zlepšení míst ve Vašem okolí. Považujeme to, za výrazný krok ke zvýšení angažovanosti občanů. V této platformě je možné hlásit různé nedostatky – jako jsou rozbité lavičky, koše nebo nefunkční lampy veřejného osvětlení. Také je zde možnost přidávání námětů na zlepšení, třeba kde je možno dodělat chodník, nebo přidání dopravního zrcadla.
+
+Sami jsme již podali již 17 námětů. Některé byly již úspěšně vyřešené, jiné stále čekají na vyřešení a některé byly označeny jako neřešitelné.<br />
+Z vyřešených můžeme například jmenovat tyto:<br />
  [https://www.lepsimisto.cz/tip/asfaltove-napojeni-cyklostezky-na-lavku-u-muzea](https://www.lepsimisto.cz/tip/asfaltove-napojeni-cyklostezky-na-lavku-u-muzea){:target="_blank"}
 ![Obrázek lepsimisto](https://roznov.pirati.cz/assets/img/posts/lepsimisto1.jpg)
 
 
 
 
-Nebo tento
+Nebo tento.<br />
 [https://www.lepsimisto.cz/tip/spatne-vyspadovana-komunikace](https://www.lepsimisto.cz/tip/spatne-vyspadovana-komunikace){:target="_blank"}
 ![Obrázek lepsimisto](https://roznov.pirati.cz/assets/img/posts/lepsimisto2.jpg)
 
@@ -35,11 +36,11 @@ Nebo tento
 
 
 
-Jsou zde však i případy, kde jsme se ještě realizace nedočkali.
+Jsou zde však i případy, kde jsme se ještě realizace nedočkali.<br />
 [https://www.lepsimisto.cz/tip/zpevnene-spojeni-cyklostezky-a-prilehle-komunikace](https://www.lepsimisto.cz/tip/zpevnene-spojeni-cyklostezky-a-prilehle-komunikace){:target="_blank"}
 ![Obrázek lepsimisto](https://roznov.pirati.cz/assets/img/posts/lepsimisto3.jpg)
 
-A bohužel případy, kdy jsme se nedočkali odpovědi.
+A bohužel případy, kdy jsme se nedočkali odpovědi.<br />
 [https://www.lepsimisto.cz/tip/vybudovani-chodniku](https://www.lepsimisto.cz/tip/vybudovani-chodniku){:target="_blank"}
 ![Obrázek lepsimisto](https://roznov.pirati.cz/assets/img/posts/lepsimisto4.jpg)
 
