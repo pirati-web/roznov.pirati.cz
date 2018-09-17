@@ -15,14 +15,14 @@ Jedná se o platformu [www.lepsimisto.cz](www.lepsimisto.cz){:target="_blank"}  
 Sami jsme již podali již 17 námětů. Některé byly již úspěšně vyřešené, jiné stále čekají na vyřešení a některé byly označeny jako neřešitelné.
 Z vyřešených můžeme například jmenovat tyto:
  [https://www.lepsimisto.cz/tip/asfaltove-napojeni-cyklostezky-na-lavku-u-muzea](https://www.lepsimisto.cz/tip/asfaltove-napojeni-cyklostezky-na-lavku-u-muzea){:target="_blank"}
-![Obrázek lepsimisto](/assets/img/posts/lepsimisto1.jpg)
+![Obrázek lepsimisto](https://roznov.pirati.cz/assets/img/posts/lepsimisto1.jpg)
 
 
 
 
 Nebo tento
 [https://www.lepsimisto.cz/tip/spatne-vyspadovana-komunikace](https://www.lepsimisto.cz/tip/spatne-vyspadovana-komunikace){:target="_blank"}
-![Obrázek lepsimisto](/assets/img/posts/lepsimisto2.jpg)
+![Obrázek lepsimisto](https://roznov.pirati.cz/assets/img/posts/lepsimisto2.jpg)
 
 
 
@@ -37,11 +37,11 @@ Nebo tento
 
 Jsou zde však i případy, kde jsme se ještě realizace nedočkali.
 [https://www.lepsimisto.cz/tip/zpevnene-spojeni-cyklostezky-a-prilehle-komunikace](https://www.lepsimisto.cz/tip/zpevnene-spojeni-cyklostezky-a-prilehle-komunikace){:target="_blank"}
-![Obrázek lepsimisto](/assets/img/posts/lepsimisto3.jpg)
+![Obrázek lepsimisto](https://roznov.pirati.cz/assets/img/posts/lepsimisto3.jpg)
 
 A bohužel případy, kdy jsme se nedočkali odpovědi.
 [https://www.lepsimisto.cz/tip/vybudovani-chodniku](https://www.lepsimisto.cz/tip/vybudovani-chodniku){:target="_blank"}
-![Obrázek lepsimisto](/assets/img/posts/lepsimisto4.jpg)
+![Obrázek lepsimisto](https://roznov.pirati.cz/assets/img/posts/lepsimisto4.jpg)
 
 Pokračování a rozvoj používání této platformy, budeme nadále podporovat, protože v tom vidíme možnost zapojení občanů do dění ve městě a participaci na vývoji města.
 
