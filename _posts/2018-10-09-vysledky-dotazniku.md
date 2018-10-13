@@ -26,6 +26,4 @@ U stále diskutované stavby kulturního centra převažuje názor, že je potř
 Jako nejméně důležité byly v dotazníku označeny rekonstrukce náměstí Míru a stavba nové sportovní haly. Tu sportovní halu má v programu hodně stran a myslíme si, že u této větší investice bude referendum občanů velmi potřebné.<br />
 O dalších výsledcích dotazníku si můžete udělat obrázek na přiložené grafice.
 
-__
-
 - - -
