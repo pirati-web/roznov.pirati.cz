@@ -9,63 +9,22 @@ image: /assets/img/posts/dotaznik-transparentni.png
 ogimage: https://raw.githubusercontent.com/pirati-web/roznov.pirati.cz/master/assets/img/posts/dotaznik-transparentni.png
 tags: 'dotaznik rožnov-pod-radhoštěm vize'
 ---
-Celkem v osmi městech a jedné vesnici ve Zlínském kraji se podařilo Pirátům protlačit do obecního zastupitelstva minimálně jednoho člena. Patnáct městských zastupitelů pochází přímo z pirátských kandidátek či z kandidátů s naší podporou, ve Stupavě získal jeden Pirát mandát mezi nezávislými. Neuspěly pouze pirátské kandidátky na Vsetíně, v Zašové a ve Slavičíně.
+Před několika měsíci jsme spustili Dotazník pro občany Rožnova, jehož výstupy nám dost pomohly při tvorbě našeho volebního programu. Nyní zveřejňovat konečné výsledky.
 
-Na několika místech nebyla nouze o velké drama. Ve Valašském Meziříčí mají Piráti zastupitele díky těsnému finálnímu přepočtu, který vyšvihl Denise Rychtara nad pětiprocentní hranici díky menšímu počtu kandidátů na listině. Velkou smůlu naopak měli ve Slavičíně, kde byl jejich výsledek 5,00 % přepočten na 4,99 %. Pirátům tak ve městě, ze kterého mimochodem pochází žhavý kandidát na post primátora Prahy Zdeněk Hřib, utekl pravděpodobně mandát o jeden jediný hlas. Jeden lístek rozhodoval také ve Stupavě, kde se ocitl člen Pirátů v opozici.
+U nás Pirátů je transparence - otevřenost jedním ze základních témat a proto naše první otázka v dotazníku snad ani nemohla být jiná než "Jak je Rožnov transparentní - otevřený občanovi?"<br />
+Z výsledku je patrné, že občané jsou celkem spokojení s otevřeností při jednání zastupitelstva. Nám se líbí přímé přenosy a videozáznamy z jednání zastupitelstva, které jsme mnohdy sledovali.<br />
+Nejméně jsou občané spokojení s jednáním rady a s otevřeností smluv včetně účetnictví městských firem. Sami s tímto stavem nejsme spokojeni a proto v našem volebním programu usilujeme o větší otevřenost jednání rady města a otevřené účetnictví zahrnující veřejné smlouvy městských firem.<br />
 
-__Výčet zastupitelů:__
+<br />Dále nás zajímal postoj místních k referendu v případě větších městských investic. Přes 67% dotázaných odpovědělo u této otázky ano nebo rozhodně ano.<br />
+Myslíme si, že referendum by vyřešilo mnoho sporů o tom, co se má stavět. Dodnes se v Rožnově přetřásá jestli je nutné stavět nové kulturní centrum, přistavovat knihovnu nebo kupovat spolák. Do připravených investic již nechceme zasahovat, ale třeba v případě nákupu spoláku nebo stavby nové sportovní haly, by referendum mohlo rozhodnout směřování investic pro následujíci roky.<br />
+Zastupitelé nestojí nad občany a neměli by oproti nim být při rozhodování privilegováni. Jsme přesvědčeni, že občané jsou kompetentní činit v referendu stejná rozhodnutí jako jejich zastupitelé.<br />
+K tomu je ovšem potřeba, aby byl poskytnut prostor pro veřejnou diskusi. Město by mělo vystupovat nestranně a všem občanům doručit informace obsahující posudek podporovatelů i oponentů v rozhodované věci.<br />
 
-__Zlín__
-- Jiří Jaroš
-- Zuzana Fišerová
-- Milan Klajn
-
-"Volby pro nás skončily úspěchem. Získali jsme 6,57 %, což v konečné fázi znamená skvělé tři mandáty. Děkujeme za podporu a držíme kurz," říká Jiří Jaroš.
-
-__Uherské Hradiště__
-- Jaroslav Ševčík
-- František Elfmark
-
-"S výsledky voleb jsme spokojení. Očekávali jsme 2-3 mandáty jako nová strana v Uherském Hradišti. Nyní máme 2 pirátské zastupitele a již se chystáme na práci v zastupitelstvu v duchu pirátských principů," říká Jaroslav Ševčík.
-
-__Kroměříž__
-- Vratislav Krejčíř
-- Petr Stoklasa
-
-"V komunálních volbách jsme měli jistě vyšší cíle, obzvláště po odezvě okolí a odvedené práci, kdy jsme za 8 měsíců uspořádali 15 akcí. Zisk dvou postů pro pirátské zastupitele je ale uspokojivý, když přihlédneme k faktu, že jsme kandidovali v Kroměříži poprvé, bez známých osobností a v konkurenci třinácti kandidátek. V současné době již probíhají první jednání o možné podobě složení koalice a jsme sami zvědaví, jak to dopadne," říká Vratislav Krejčíř.
-
-__Valašské Meziříčí__
-- Denis Rychtar
-
-"Valašskomeziříčtí Piráti dosáhli na zastupitelský mandát díky přepočítávání. Celkově se to pro nás dobře nevyvíjelo, ale uspěli jsme. V přepočtu 7,86 Kč na jeden hlas jsme dokázali získat mandát za 46000 Kč v celoroční kampani," říká Denis Rychtar.
-
-__Rožnov pod Radhoštěm__
-- Libor Adámek
-
-"Jsme rádi, že jsme se jako nová strana v Rožnově dostali s jedním mandátem na radnici. Mrzí nás, že výsledek nebyl trochu lepší, abychom mohli lépe prosazovat náš program. Stále však můžeme hlídat kroky radnice a seznamovat občany s našimi pirátskými principy," říká Libor Adámek.
-
-__Vizovice__
-- Jan Špaňhel
-- Jaromír Slezák
-
-"Dosáhli jsme velmi dobrého výsledku, když se nám podařilo nalodit na radnici 2 kandidáty. Je to poprvé, kdy zástupci Pirátů v této obci s rozšířenou působností kandidovali. Dalším krokem bude vyjednávání o účasti v koalici. Teď nás čeká tvrdá práce. Chtěli bychom rozšířit počet Pirátů v našem městě a v příštích volbách vyhrát," říká Jaromír Slezák.
-
-__Napajedla__
-- Tomáš Čabla
-- Jiří Krkoška
-
-"Děkujeme všem, kteří nás podpořili při plavbě na radnici v Napajedlích, na kterou díky Vám vysíláme dva pirátské zastupitele. Věříme že naši práci budeme kormidlovat správným směrem! Držíme kurz!" říká Tomáš Čabla.
-
-__Otrokovice__ (Občané OE s podporou Pirátů)
-- Pavel Beznoska
-- Petr Ťopek
-
-"Pro Občany OE s podporou Pirátů jde o nejlepší výsledek v historii. Získání 2 zastupitelských míst je úspěchem, nicméně velmi nás mrzí, že jen několik hlasů nás připravilo o třetího zastupitele. Budeme-li osloveni, rádi se zapojíme do jednání o koalici, za předpokladu akceptace našeho volebního programu a místa radního," říká Pavel Beznoska.
-
-__Stupava__ (sdružení nezávislých kandidátů)
-- Lubomír Doležal
-
-"Děkuji všem občanům, kteří přišli k volbám a dali nám svůj hlas. Volební účast téměř 80 % oprávněných voličů znamená, že lidem zde není budoucnost obce lhostejná. Nám bohužel 0,16 % hlasů chybělo k většině, ale i tak to beru jako úspěch. Těším se na první zasedání a věřím, že nyní již bude vůle vést důstojná jednání vedoucí ke spokojenosti všech obyvatel," říká Lubomír Doležal.
+<br />Ve třetí části dotazníku jsme se ptali obyvatel, co je pro jejich budoucí život v Rožnově nejdůležitější.<br />
+Z výsledku jde jasně vidět, že pro místní obyvatele je do budoucnosti nejdůležítější čisté životní prostředí, následováno větší potřebou zeleně a zároveň chtějí více parkovacích míst. Také obnova sídlišť získala hodně pozitivních hlasů. Tady trošku tušíme, jak náročné a citlivé bude téma obnovy sídlišť, kdy na jedné straně budou chtít obyvatelé dostatek zeleně a na druhé straně dostatek parkovacích míst. Z tohoto důvodu je důležité, za pomoci místních, napřed naplánovat celkovou koncepci obnovy a vyvážit ji tak, ať jsou spokojeni milovníci zeleně i motoristé. Jako možné řešení vidíme také stavbu parkovacích domů se zelení na fasádě. Tady bychom byli rádi, když se zapojí do konzultací co nejvíce občanů.<br />
+U stále diskutované stavby kulturního centra převažuje názor, že je potřebná.<br />
+Jako nejméně důležité byly v dotazníku označeny rekonstrukce náměstí Míru a stavba nové sportovní haly. Tu sportovní halu má v programu hodně stran a myslíme si, že u této větší investice bude referendum občanů velmi potřebné.<br />
+O dalších výsledcích dotazníku si můžete udělat obrázek na přiložené grafice.
 
 __
 
