@@ -9,7 +9,7 @@ image: /assets/img/posts/dotaznik-transparentni.png
 ogimage: https://raw.githubusercontent.com/pirati-web/roznov.pirati.cz/master/assets/img/posts/dotaznik-transparentni.png
 tags: 'dotaznik rožnov-pod-radhoštěm vize'
 ---
-Před několika měsíci jsme spustili Dotazník pro občany Rožnova, jehož výstupy nám dost pomohly při tvorbě našeho volebního programu. Nyní zveřejňovat konečné výsledky.
+Před několika měsíci jsme spustili Dotazník pro občany Rožnova, jehož výstupy nám dost pomohly při tvorbě našeho volebního programu. Nyní zveřejňujeme konečné výsledky.
 
 U nás Pirátů je transparence - otevřenost jedním ze základních témat a proto naše první otázka v dotazníku snad ani nemohla být jiná než __"Jak je Rožnov transparentní - otevřený občanovi?"__<br />
 Z výsledku je patrné, že občané jsou celkem spokojení s otevřeností při jednání zastupitelstva. Nám se líbí přímé přenosy a videozáznamy z jednání zastupitelstva, které jsme mnohdy sledovali.<br />
