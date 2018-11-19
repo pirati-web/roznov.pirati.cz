@@ -17,13 +17,15 @@ Přihlášky zájemců jsou přijímány na mailu předsedkyně MS ValMez a to n
 V přihlášce uveďte kontaktní údaje, svůj stručný životopis a odůvodnění Vaší motivace, zejména se zaměřením na odbornost a zkušenosti do příslušné komise.  
 V případě kladného přijetí přihlášky budete pozváni ke krátkému rozhovoru dne 24.11 (sobota) v 18:00 hod. (místo a přesný čas bude ještě upřesněn).
 
-**Komise bytová** Spolupráce při kontrole využití bytového fondu v souladu s koncepcí bydlení a nájemními smlouvami. Nastavení systému práce s rizikovými nájemníky.
+__Seznam komisí:__
 
-**Komise energetická** Spolupráce na energetické koncepci města.
+- **Komise bytová** Spolupráce při kontrole využití bytového fondu v souladu s koncepcí bydlení a nájemními smlouvami. Nastavení systému práce s rizikovými nájemníky.
 
-**Komise kulturní** Spolupráce při tvorbě Kulturní strategii města, analýza systému financování kultury, příp. návrh opatření.
+- **Komise energetická** Spolupráce na energetické koncepci města.
 
-**Komise "Paměti města"  (RMT)** Činnost redakční rady rožnovských malých tisků, spolupráce na přípravě kamenů paměti,  metodických listů pro učitele, při pojmenování ulic a při přípravě vzpomínkových akcí významných výročí.
+- **Komise kulturní** Spolupráce při tvorbě Kulturní strategii města, analýza systému financování kultury, příp. návrh opatření.
+
+- **Komise "Paměti města"  (RMT)** Činnost redakční rady rožnovských malých tisků, spolupráce na přípravě kamenů paměti,  metodických listů pro učitele, při pojmenování ulic a při přípravě vzpomínkových akcí významných výročí.
 
 **Komise prevence kriminality** Zavedení kampaní nejen dopravní bezpečnosti ve městě. Spolupráce s BESIPEM.
 
