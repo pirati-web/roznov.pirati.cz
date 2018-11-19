@@ -13,9 +13,9 @@ Na základě volebního výsledku Pirátů v Rožnově p.R. a nabídky Rady měs
 
 V souladu s pirátskými principy vyhlašujeme výběrové řízení na jejich obsazení. Výběrové řízení je otevřeno nejen členům Pirátské strany, ale i jejím sympatizantům.
 
-Přihlášky zájemců jsou přijímány na mailu předsedkyně MS ValMez a to nejpozději do pátku 23. listopadu 2018 včetně.
+Přihlášky zájemců jsou přijímány na mailu předsedkyně MS ValMez lucie.malikova@pirati.cz a to nejpozději do pátku 23. listopadu 2018 včetně.
 V přihlášce uveďte kontaktní údaje, svůj stručný životopis a odůvodnění Vaší motivace, zejména se zaměřením na odbornost a zkušenosti do příslušné komise.  
-V případě kladného přijetí přihlášky budete pozváni ke krátkému rozhovoru dne 24.11 (sobota) v 18:00 hod. (místo a přesný čas bude ještě upřesněn).
+V případě kladného přijetí přihlášky budete pozváni ke krátkému rozhovoru dne 24.11. (sobota) v 18:00 hod. (místo a přesný čas bude ještě upřesněn).
 
 __Seznam komisí:__
 
