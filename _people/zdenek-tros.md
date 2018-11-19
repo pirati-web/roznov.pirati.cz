@@ -15,6 +15,7 @@ profiles:
   
 ordkandidat: 2
 ordclen: 2
+ordkontakty: 3
 ---
 
 Zdeněk Třos (* 15. prosince 1981) je členem Pirátské strany. V Rožnově bydlí takřka celý život. Je jednatelem a majitelem společnosti Mexia s.r.o.
