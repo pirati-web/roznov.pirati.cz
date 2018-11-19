@@ -9,7 +9,7 @@ category:                   # kategorie: clenove
 - kontakt
 
 img: people/libor-adamek.jpg   # 165 x 220
-description: 46 let<br>prodejce kancelářské techniky<br>1. místopředseda Pirátů MS ValMez # kratký popis, max 160 znaků
+description: 46 let<br>zastupitel města Rožnov p.R.<br>1. místopředseda Pirátů MS ValMe<br>prodejce kancelářské technikyz # kratký popis, max 160 znaků
 mob:   +420 604 791 192
 mail:
 - libor.adamek@pirati.cz
