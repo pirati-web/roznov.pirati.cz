@@ -9,21 +9,36 @@ image: /assets/img/posts/vyberovka.png
 ogimage: https://raw.githubusercontent.com/pirati-web/roznov.pirati.cz/master/assets/img/posts/vyberovka.png
 tags: 'výběrové-řízení komise rožnov-pod-radhoštěm zastupitelstvo'
 ---
-Na základě volebního výsledku Pirátů v Rožnově p.R. a povolebního vyjednávání budou Piráti obsazovat ve výborech, komisích a pracovních skupinách Prahy 6 celkem 46 míst (číslo se může ještě měnit).
+Na základě volebního výsledku Pirátů v Rožnově p.R. a nabídky Rady města Rožnov p.R. budou Piráti nominovat členy do jednotlivých komisí. Do každé komise lze za Piráty nominovat jednoho člena. 
 
-U nás Pirátů je transparence - otevřenost jedním ze základních témat a proto naše první otázka v dotazníku snad ani nemohla být jiná než __"Jak je Rožnov transparentní - otevřený občanovi?"__<br />
-Z výsledku je patrné, že občané jsou celkem spokojení s otevřeností při jednání zastupitelstva. Nám se líbí přímé přenosy a videozáznamy z jednání zastupitelstva, které jsme mnohdy sledovali.<br />
-Nejméně jsou občané spokojení s jednáním rady a s otevřeností smluv včetně účetnictví městských firem. Sami s tímto stavem nejsme spokojeni a proto v našem volebním programu usilujeme o větší otevřenost jednání rady města a otevřené účetnictví zahrnující veřejné smlouvy městských firem.<br />
-![Obrázek dotaznik referendum](https://roznov.pirati.cz/assets/img/posts/dotaznik-referendum.png)
-<br />Dále nás zajímal postoj místních k __referendu v případě větších městských investic__.<br />Přes 67% dotázaných odpovědělo u této otázky ano nebo rozhodně ano.<br />
-Myslíme si, že referendum by vyřešilo mnoho sporů o tom, co se má stavět. Dodnes se v Rožnově přetřásá jestli je nutné stavět nové kulturní centrum, přistavovat knihovnu nebo kupovat spolák. Do připravených investic již nechceme zasahovat, ale třeba v případě nákupu spoláku nebo stavby nové sportovní haly, by referendum mohlo rozhodnout směřování investic pro následujíci roky.<br />
-Zastupitelé nestojí nad občany a neměli by oproti nim být při rozhodování privilegováni. Jsme přesvědčeni, že občané jsou kompetentní činit v referendu stejná rozhodnutí jako jejich zastupitelé.<br />
-K tomu je ovšem potřeba, aby byl poskytnut prostor pro veřejnou diskusi. Město by mělo vystupovat nestranně a všem občanům doručit informace obsahující posudek podporovatelů i oponentů v rozhodované věci.<br />
-![Obrázek dotaznik preference](https://roznov.pirati.cz/assets/img/posts/dotaznik-nejdulezitejsi.png)
-<br />Ve třetí části dotazníku jsme se ptali obyvatel, __co je pro jejich budoucí život v Rožnově nejdůležitější__.<br />
-Z výsledku jde jasně vidět, že pro místní obyvatele je do budoucnosti nejdůležítější čisté životní prostředí, následováno větší potřebou zeleně a zároveň chtějí více parkovacích míst. Také obnova sídlišť získala hodně pozitivních hlasů. Tady trošku tušíme, jak náročné a citlivé bude téma obnovy sídlišť, kdy na jedné straně budou chtít obyvatelé dostatek zeleně a na druhé straně dostatek parkovacích míst. Z tohoto důvodu je důležité, za pomoci místních, napřed naplánovat celkovou koncepci obnovy a vyvážit ji tak, ať jsou spokojeni milovníci zeleně i motoristé. Jako možné řešení vidíme také stavbu parkovacích domů se zelení na fasádě. Tady bychom byli rádi, když se zapojí do konzultací co nejvíce občanů.<br />
-U stále diskutované stavby kulturního centra převažuje názor, že je potřebná.<br />
-Jako nejméně důležité byly v dotazníku označeny rekonstrukce náměstí Míru a stavba nové sportovní haly. Tu sportovní halu má v programu hodně stran a myslíme si, že u této větší investice bude referendum občanů velmi potřebné.<br />
-O dalších výsledcích dotazníku si můžete udělat obrázek na přiložené grafice.
+V souladu s pirátskými principy vyhlašujeme výběrové řízení na jejich obsazení. Výběrové řízení je otevřeno nejen členům Pirátské strany, ale i jejím sympatizantům.
+
+Přihlášky zájemců jsou přijímány na mailu předsedkyně MS ValMez a to nejpozději do pátku 23. listopadu 2018 včetně.
+V přihlášce uveďte kontaktní údaje, svůj stručný životopis a odůvodnění Vaší motivace, zejména se zaměřením na odbornost a zkušenosti do příslušné komise.  
+V případě kladného přijetí přihlášky budete pozváni ke krátkému rozhovoru dne 24.11 (sobota) v 18:00 hod. (místo a přesný čas bude ještě upřesněn).
+
+**Komise bytová** Spolupráce při kontrole využití bytového fondu v souladu s koncepcí bydlení a nájemními smlouvami. Nastavení systému práce s rizikovými nájemníky.
+
+**Komise energetická** Spolupráce na energetické koncepci města.
+
+**Komise kulturní** Spolupráce při tvorbě Kulturní strategii města, analýza systému financování kultury, příp. návrh opatření.
+
+**Komise "Paměti města"  (RMT)** Činnost redakční rady rožnovských malých tisků, spolupráce na přípravě kamenů paměti,  metodických listů pro učitele, při pojmenování ulic a při přípravě vzpomínkových akcí významných výročí.
+
+**Komise prevence kriminality** Zavedení kampaní nejen dopravní bezpečnosti ve městě. Spolupráce s BESIPEM.
+
+**Komise "Rada seniorů"** Koncepce města přátelského seniorům (aktualizace, vytipování několika opatření k realizaci), připomínkování projektů veřejného prostoru či dopravy z pohledu života seniorů.
+
+**Komise sociální** Zúžení rozvojových priorit komunitního plánování, spolupráce se Zlínským krajem při tvorbě nového střednědobého plánu rozvoje sociálních služeb, dotvoření metodiky rozdělování finančních prostředků.
+
+**Komise stavební** Zapojení do příprav nového územního plánu, spolupráce s koordinátorem Plánu udržitelné mobility, připomínkování investičních záměrů města.
+
+**Komise pro školství** Škola pro 21. století (větší důraz na obsah vzdělávání a moderní trendy) - rozvoj kritického myšlení, moderní dějiny, finanční gramotnost, informační gramotnost, návrhy na pilotní zavádění alternativních přístupů ve výchově a vzdělávání.
+
+**Komise sportovní** Spolupráce na sportovní infrastruktuře – dlouhodobém plánu investic do sportovních staveb.
+
+**Komise životního prostředí** Návrh a spolupráce na vytvoření Adaptační strategii na změnu klimatu.
+
+**Komise "Zdravého města a MA 21"** Spolupráce při vytváření Adaptační strategie na změnu klimatu ve spolupráci s komisí životního prostředí, spolupráce s energetickou komisí v oblasti snižování emisí, návrh na implementaci osvětových kampaní k udržitelnému rozvoji.
 
 - - -
