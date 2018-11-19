@@ -4,7 +4,9 @@ name:     Zdeněk Třos  	# běžně používáné jméno
 fullname: Zdeněk Třos  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- pms
 - kandidat
+- kontakt
 
 img: people/zdenek-tros.jpg   # 165 x 220
 description: 36 let<br>OSVČ, jednatel<br>2. místopředseda Pirátů MS ValMez # kratký popis, max 160 znaků
