@@ -6,7 +6,7 @@ date: 2018-11-20T12:00:00.032Z
 author: Libor Adámek
 authorId: libor.adamek
 image: /assets/img/posts/vyberovka.jpg
-
+ogimage: https://raw.githubusercontent.com/pirati-web/roznov.pirati.cz/master/assets/img/posts/vyberovka.jpg
 tags: 'výběrové-řízení komise rožnov-pod-radhoštěm zastupitelstvo'
 ---
 Na základě volebního výsledku Pirátů v Rožnově p.R. a nabídky Rady města Rožnov p.R. budou Piráti nominovat členy do jednotlivých komisí. Do každé komise lze za Piráty nominovat jednoho člena. 
