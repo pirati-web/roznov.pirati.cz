@@ -4,10 +4,13 @@ name:     Zdeněk Třos  	# běžně používáné jméno
 fullname: Zdeněk Třos  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- pms
 - kandidat
+- kontakt
 
 img: people/zdenek-tros.jpg   # 165 x 220
-description: 36 let<br>OSVČ, jednatel<br>člen Pirátů # kratký popis, max 160 znaků
+description: 36 let<br>2. místopředseda Pirátů MS ValMez<br>OSVČ, jednatel # kratký popis, max 160 znaků
+mob:   +420 724 286 285
 mail:
 - zdenek.tros@pirati.cz
 profiles:
@@ -15,6 +18,7 @@ profiles:
   
 ordkandidat: 2
 ordclen: 2
+ordkontakty: 3
 ---
 
 Zdeněk Třos (* 15. prosince 1981) je členem Pirátské strany. V Rožnově bydlí takřka celý život. Je jednatelem a majitelem společnosti Mexia s.r.o.
