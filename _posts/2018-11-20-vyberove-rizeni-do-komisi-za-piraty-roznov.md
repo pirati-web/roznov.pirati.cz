@@ -5,7 +5,7 @@ title: 'Výběrové řízení do komisí Rožnova p.R. za Piráty'
 date: 2018-11-20T12:00:00.032Z
 author: Libor Adámek
 authorId: libor.adamek
-image: /assets/img/posts/vyberovka.png
+image: /assets/img/posts/vyberovka.jpg
 
 tags: 'výběrové-řízení komise rožnov-pod-radhoštěm zastupitelstvo'
 ---
