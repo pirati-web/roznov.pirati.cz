@@ -9,7 +9,7 @@ image: /assets/img/posts/klice.jpg
 ogimage: https://raw.githubusercontent.com/pirati-web/roznov.pirati.cz/master/assets/img/posts/klice.jpg
 tags: 'piratske-srdce sametova-revoluce klice'
 ---
-Piráti, Pirátky a příznivci! 17.listopadu 2019 uplyne 30 let od sametové revoluce a 
+Piráti, Pirátky a příznivci! 17. listopadu 2019 uplyne 30 let od sametové revoluce a 
 80 let od uzavření českých vysokých škol v prvním roce druhé světové války.<br> 
 Nesmíme nikdy zapomenout. Piráti z Karviné se rozhodli udělat něco, co by nám všem klíčové události připomínalo. 
 Tím nápadem je vytvoření velké sochy ve tvaru srdce. A celá bude vytvořena z klíčů.
