@@ -16,6 +16,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/zdenek.tros
   
+ordpms: 3
 ordkandidat: 2
 ordclen: 2
 ordkontakty: 3
