@@ -15,7 +15,7 @@ mail:
 - libor.adamek@pirati.cz
 profiles:
   facebook: https://www.facebook.com/adamek.libor
-ordpms: 3
+ordpms: 2
 ordkandidat: 1
 ordclen: 1
 ordkontakty: 2 
