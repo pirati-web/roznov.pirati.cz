@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/martin-valasek.jpg   # 165 x 220
-description: hudební dramaturg v kulturní agentuře # kratký popis, max 160 znaků
+description: člen Pirátů MS ValMez # kratký popis, max 160 znaků
 mail:
 - martin.valasek@pirati.cz
 profiles:
