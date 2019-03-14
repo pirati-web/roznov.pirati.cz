@@ -6,12 +6,13 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/petr-lusovsky.jpg   # 165 x 220
-description: 25 let<br>správce e-shopu<br>nezávislý kandidát # kratký popis, max 160 znaků
+description: příznivec Pirátů<br>člen Komise 'Zdravého města a MA 21' # kratký popis, max 160 znaků
 mail:
 - lusov@seznam.cz
 profiles:
   facebook: https://www.facebook.com/petr.lusovsky.5
   
+ordclen: 5
 ordkandidat: 5
 
 ---
