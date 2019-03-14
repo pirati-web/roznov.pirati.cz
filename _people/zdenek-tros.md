@@ -18,7 +18,7 @@ profiles:
   
 ordpms: 3
 ordkandidat: 2
-ordclen: 2
+ordclen: 3
 ordkontakty: 3
 ---
 
