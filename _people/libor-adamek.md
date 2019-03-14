@@ -17,7 +17,7 @@ profiles:
   facebook: https://www.facebook.com/adamek.libor
 ordpms: 2
 ordkandidat: 1
-ordclen: 1
+ordclen: 2
 ordkontakty: 2 
 ---
 
