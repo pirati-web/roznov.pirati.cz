@@ -17,7 +17,7 @@ profiles:
   facebook: https://www.facebook.com/ghostinafuego.malikova
 ordpms: 1
 ordkandidat: 4
-ordclen: 3
+ordclen: 1
 ordkontakty: 1
 ---
 
