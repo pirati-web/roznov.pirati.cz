@@ -9,7 +9,7 @@ category:                   # kategorie: clenove
 - kontakt
 
 img: people/libor-adamek.jpg   # 165 x 220
-description: 1. místopředseda Pirátů MS ValMez<br>zastupitel města Rožnov p.R.<br>člen Sportovní komise města Rožnov p.R.<br>člen Strategického výboru Rožnov p.R. # kratký popis, max 160 znaků
+description: 1. místopředseda Pirátů MS ValMez<br>zastupitel města Rožnov p.R.<br>člen Strategického výboru Rožnov p.R.<br>člen Sportovní komise města Rožnov p.R. # kratký popis, max 160 znaků
 mob:   +420 604 791 192
 mail:
 - libor.adamek@pirati.cz
