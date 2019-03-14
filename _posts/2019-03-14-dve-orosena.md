@@ -5,7 +5,7 @@ title: 'Na dvě orosená s poslancem Frantou Elfmarkem'
 date: 2019-03-14T12:00:00.032Z
 author: Libor Adámek
 authorId: libor.adamek
-image: /assets/img/posts/dveosrosena.pngg
+image: /assets/img/posts/dveosrosena.png
 ogimage: https://raw.githubusercontent.com/pirati-web/roznov.pirati.cz/master/assets/img/posts/dveosrosena.png
 tags: 'verejna-schuze poslanec'
 ---
