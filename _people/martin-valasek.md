@@ -6,13 +6,13 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/martin-valasek.jpg   # 165 x 220
-description: hudební dramaturg v kulturní agentuře # kratký popis, max 160 znaků
+description: člen Pirátů MS ValMez # kratký popis, max 160 znaků
 mail:
 - martin.valasek@pirati.cz
 profiles:
   facebook: https://www.facebook.com/martin.malarie
   
-ordclen: 6  
+ordclen: 5  
 ---
 
 Martin Valášek (*4. března 1966, Český Těšín) po absolvování ZDŠ v Českém Těšíně a gymnázia ve třídě se zaměřením na matematiku v Bílovci napodruhé složil závěrečné státní zkoušky na Stavební fakultě VUT Brno. Už během studií se aktivně zajímal o hudbu, za organizaci koncertu ve studentském klubu Topas byl podmínečně vyloučen ze školy.

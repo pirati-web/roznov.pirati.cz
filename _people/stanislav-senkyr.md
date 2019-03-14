@@ -7,14 +7,14 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/stanislav-senkyr.jpg   # 165 x 220
-description: 19 let<br>student VŠ<br>člen Pirátů # kratký popis, max 160 znaků
+description: člen Pirátů MS ValMez # kratký popis, max 160 znaků
 mail:
 - stanislav.senkyr@pirati.cz
 profiles:
   facebook: https://www.facebook.com/channkoslav
 
   
-ordclen: 5
+ordclen: 7
 ordkandidat: 7
 ---
 

@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/petr-hejny.jpg   # 165 x 220
-description: 34 let<br>plánovač výroby<br>člen Pirátů # kratký popis, max 160 znaků
+description: člen Pirátů MS ValMez<br>člen Finančního výboru města Rožnov p.R. # kratký popis, max 160 znaků
 mail:
 - petr.hejny@pirati.cz
 profiles:
