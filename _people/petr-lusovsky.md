@@ -3,6 +3,7 @@ uid: petr.lusovsky
 name:     Ing. Petr Lušovský  	# běžně používáné jméno
 fullname: Ing. Petr Lušovský  	# jméno s tituly etc.
 category:                   # kategorie: clenove
+- clenove
 - kandidat
 
 img: people/petr-lusovsky.jpg   # 165 x 220
