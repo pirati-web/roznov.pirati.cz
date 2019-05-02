@@ -5,7 +5,7 @@ fullname: Jaromír Horký  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 
 
-img: people/ppp.jpg   # 165 x 220
+img: people/jaromir-horky.jpg.jpg   # 165 x 220
 description: Krajská mediální spojka, psavec # kratký popis, max 160 znaků
 mail:
 - jaromir.horky@pirati.cz
