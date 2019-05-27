@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: ' Děkujeme za vaše hlasy. Piráti mají tři eroposlance.'
+title: ' Děkujeme za vaše hlasy. Piráti mají tři europoslance.'
 date: 2019-05-27T10:00:00.032Z
 author: Libor Adámek
 authorId: libor.adamek
