@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Na dvě orosená s poslancem Frantou Elfmarkem'
-date: 2019-05-27T12:00:00.032Z
+date: 2019-05-27T10:00:00.032Z
 author: Libor Adámek
 authorId: libor.adamek
 image: /assets/img/posts/eu2019dekujeme.png
