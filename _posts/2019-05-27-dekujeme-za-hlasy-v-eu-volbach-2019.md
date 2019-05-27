@@ -13,7 +13,7 @@ Ve volbách do Evropského parlamentu získala Pirátská strana tři mandáty. 
 
 „Děkuji všem, kteří se rozhodli volit a podpořit Piráty a také těm, kteří se podíleli na kampani, ať už jde přímo o kandidáty nebo stovky dobrovolníků. Volební účast oproti evropským volbám vzrostla o deset procent. Oproti parlamentním volbám jsme posílili o čtyři procenta. A byť jsme nedosáhli vytyčeného výsledku v podobě čtyř mandátů, voliči nám dali důvěru, která nás zavazuje k další práci,“ komentoval předseda Pirátů Ivan Bartoš výsledky evropských voleb.
 
-V Rožnově jsme získali 13,7 % hlasů a oproti Parlamentním volbám jsme tak posílili o 2%.<br> 
+V Rožnově jsme získali 13,7 % hlasů a oproti Parlamentním volbám jsme tak posílili o 2 %.<br> 
 Nejvíce hlasů jsme dostali na sídlišti Lázy 18,9 %, na sídlišti 5.května 16,8 % a v Tylovicích 16,2 %.<br>
 Na sídlišti Lázy jsme se také umístili u voličů na prvním místě.<br>
 Nejmenší důvěru jsme měli u voličů z části sídliště 1. máje 9,7 % a v Hážovicích 9,9 %. <br><br>
