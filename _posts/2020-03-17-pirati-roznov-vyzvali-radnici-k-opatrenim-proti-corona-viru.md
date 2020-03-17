@@ -27,4 +27,5 @@ Dále požadujeme po vedení města následující body:
 
 Vládnoucí garnitura musí umět přijmout i nepopulární nařízení. 
 Čím víc nás bude, tím lépe epidemii koronaviru zvládneme, takže #rouskyvsem!
+
 ---
