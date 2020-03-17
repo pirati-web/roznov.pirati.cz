@@ -19,7 +19,9 @@ Dále požadujeme po vedení města následující body:
 
 * Nosit ochranu dýchacích cest při jednáních a upřednostňovat jiné než osobní formy komunikace k řešení neodkladných záležitostí.
 
-* Vyzvat prodejny ke zvýšenému čištění madel nákupních košíků a dveřních klik a madel.* Povolit užívání MHD v Přerově jen s ochrannými prostředky dýchacích cest (rouška, respirátor, podomácku vyrobená rouška, šátek, šála atd.).
+* Vyzvat prodejny ke zvýšenému čištění madel nákupních košíků a dveřních klik a madel.
+
+* Povolit užívání MHD jen s ochrannými prostředky dýchacích cest (rouška, respirátor, podomácku vyrobená rouška, šátek, šála atd.).
 
 * Nařídit zaměstnancům města a příspěvkových organizací města (mateřské školy, jesle, sociální služby apod.) a jeho společností nosit ochranné prostředky dýchacích cest, byť improvizované.
 
