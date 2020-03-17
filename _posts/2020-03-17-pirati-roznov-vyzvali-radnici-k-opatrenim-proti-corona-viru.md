@@ -23,5 +23,6 @@ Dále požadujeme po vedení města následující body:
 
 * Nařídit zaměstnancům města a příspěvkových organizací města (mateřské školy, jesle, sociální služby apod.) a jeho společností nosit ochranné prostředky dýchacích cest, byť improvizované.
 
-Vládnoucí garnitura musí umět přijmout i nepopulární nařízení. Společně pro Přerov a Piráti vyzývají své občany a radnice v celém kraji - Pojďme společně příkladem! Čím víc nás bude, tím lépe epidemii koronaviru zvládneme, takže #rouskyvsem!
+Vládnoucí garnitura musí umět přijmout i nepopulární nařízení. 
+Čím víc nás bude, tím lépe epidemii koronaviru zvládneme, takže #rouskyvsem!
 ---
