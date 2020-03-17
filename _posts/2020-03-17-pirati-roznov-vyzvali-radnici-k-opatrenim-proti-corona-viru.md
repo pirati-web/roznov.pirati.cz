@@ -5,7 +5,7 @@ title: 'Piráti Rožnov vyzvali radnici, aby přijala přísnější opatření 
 date: 2020-03-17
 author: Libor Adámek
 authorId: libor.adamek
-image: /assets/img/posts/corona.jpeg  
+image: /assets/img/posts/corona.png  
 tags: 'roznov rouskyvsem koronavirus'
 ---
 
