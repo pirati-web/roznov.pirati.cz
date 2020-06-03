@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/petr-lusovsky.jpg   # 165 x 220
-description: příznivec Pirátů<br>člen Komise 'Zdravého města a MA 21' # kratký popis, max 160 znaků
+description: člen Pirátů MS ValMez<br>člen Komise 'Zdravého města a MA 21' # kratký popis, max 160 znaků
 mail:
 - lusov@seznam.cz
 profiles:
