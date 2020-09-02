@@ -1,20 +1,21 @@
 ---
 uid: petr.hejny
-name:     Ing. Petr Hejný, DiS.  	# běžně používáné jméno
-fullname: Ing. Petr Hejný, DiS.  	# jméno s tituly etc.
+name:     Petr Hejný  	# běžně používáné jméno
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
-- clenove
-- kandidat
+- clen
+
+ord_clen: 4
 
 img: people/petr-hejny.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: člen Pirátů MS ValMez<br>člen Finančního výboru města Rožnov p.R. # kratký popis, max 160 znaků
 mail:
 - petr.hejny@pirati.cz
 profiles:
   facebook: https://www.facebook.com/petr.hejny.7
-  
-ordkandidat: 3
-ordclen: 4
 ---
 
 Petr Hejný (*22. května 1984, Valašské Meziříčí) je ženatý a má dvě děti. Při práci vystudoval Vysokou školu podnikání ve studijním programu Ekonomika a management.

@@ -1,21 +1,24 @@
 ---
 uid: martin.valasek
 name:     Martin Valášek  	# běžně používáné jméno
-fullname: Martin Valášek  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
+- clen
+
+ord_clen: 5
 
 img: people/martin-valasek.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: člen Pirátů MS ValMez # kratký popis, max 160 znaků
 mail:
 - martin.valasek@pirati.cz
 profiles:
   facebook: https://www.facebook.com/martin.malarie
-  
-ordclen: 5  
 ---
 
-Martin Valášek (*4. března 1966, Český Těšín) po absolvování ZDŠ v Českém Těšíně a gymnázia ve třídě se zaměřením na matematiku v Bílovci napodruhé složil závěrečné státní zkoušky na Stavební fakultě VUT Brno. Už během studií se aktivně zajímal o hudbu, za organizaci koncertu ve studentském klubu Topas byl podmínečně vyloučen ze školy.
+Martin Valášek (*4. března 1966, Český Těšín) po obsolvování ZDŠ v Českém Těšíně a gymnázia ve třídě se zaměřením na matematiku v Bílovci napodruhé složil závěrečné státní zkoušky na Stavební fakultě VUT Brno. Už během studií se aktivně zajímal o hudbu, za organizaci koncertu ve studentském klubu Topas byl podmínečně vyloučen ze školy.
 
 Po škole nastoupil do dělnické profese, kde v roce 1990 skončil a po krátké epizodě bez zaměstnání začal provozovat hudební vydavatelství Malarie records, věnující se (dodnes) okrajovým hudebním žánrům jako punk, industrial, elektronika.
 
