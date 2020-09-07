@@ -5,6 +5,7 @@ title: Zvládají Rožnované boj s koronavirem?
 date: 2020-04-28
 author: Libor Adámek
 authorId: libor.adamek
+image: posts/koronavirus.png  
 tags: 
 - roznov
 - rouskyvsem 
