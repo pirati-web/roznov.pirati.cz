@@ -11,7 +11,7 @@ tags:
 - rouskyvsem 
 - koronavirus
 
-important: true
+
 ---
 Hned v úvodu můžu s pevnou jistotou říct, že Rožnované zvládají boj s koronavirem výborně. 
 
@@ -27,5 +27,5 @@ Za každodenní jistotu fungování společnosti vděčíme kromě zdravotníků
 
 Patrně nás čeká ještě dlouhá cesta, ale tento fenomén dobrovolnictví a zodpovědnosti spoluobčanů mě přesvědčil, že to určitě zvládneme.
 
-*Tato odpověď vyšla ve Spektrum Rožnovska v dotazech na názory místních politických sdružení a stran.*
+<small><small><i>Tato odpověď vyšla ve Spektrum Rožnovska v dotazech na názory místních politických sdružení a stran.</i></small></small>
 ---

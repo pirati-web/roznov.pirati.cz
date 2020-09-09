@@ -22,5 +22,5 @@ Město nyní začíná tvořit Strategický plán rozvoje do roku 2030, ve kter�
 V případě úvahy o sloučení jednotlivých poboček úřadu do budovy pošty nás bude zajímat, zda to bude provozně výhodné a jaké bude využití stávajících budov, popřípadě odhadovaný výnos z jejich prodeje. Nyní proběhly úpravy, které mají vést ke zklidnění náměstí, avšak právě nastěhováním úřadu na jedno místo bude centrum opět zatíženo ještě větším provozem a bude tak komplikovat občanům návštěvu pošty. Ke konečnému rozhodnutí Pirátů vede ještě dlouhá cesta vážných úvah a analýz.
 
 
-*Tato odpověď vyšla ve Spektrum Rožnovska v dotazech na názory místních politických sdružení a stran.*
+<small><small><i>Tato odpověď vyšla ve Spektrum Rožnovska v dotazech na názory místních politických sdružení a stran.</i></small></small>
 - - -

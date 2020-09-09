@@ -18,5 +18,5 @@ Abychom nedali jenom na naše dojmy, tak jsme se zeptali našich občanů v on-l
 
 Na výstavbě se chceme aktivně podílet svými připomínkami a kontrolní činností. Náš zastupitel je také členem výrobního výboru pro výstavbu KC. Plně si uvědomujeme, že tato stavba bude vyžadovat úspory v městském rozpočtu po několik následujících let, jsme však toho názoru, že si Rožnov nové ambiciózní KC rozhodně zaslouží. Vzhledem k navýšení rozpočtu, které je už teď citelné, v dobré víře předpokládáme, že k dalšímu navýšení nedojde. Zároveň ale doufáme, že budoucí provoz KC bude hospodárný a nebude zatěžovat městskou pokladnu.
 
-*Tato odpověď vyšla ve Spektrum Rožnovska v dotazech na názory místních politických sdružení a stran.*
+<small><small><i>Tato odpověď vyšla ve Spektrum Rožnovska v dotazech na názory místních politických sdružení a stran.</i></small></small>
 - - -

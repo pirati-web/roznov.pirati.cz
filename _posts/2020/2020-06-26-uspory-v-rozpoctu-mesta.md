@@ -21,5 +21,5 @@ Zatím není jasné, s jakou krizí se budeme potýkat. Pokud bude předpoklad p
 
 Závěrem bych chtěl podotknout, že město by mělo žít podle toho, na co má, a vyvarovat se zbytečným úvěrům a pokušení plátování rozpočtu vyšší sazbou daně z nemovitosti.
 
-*Tato odpověď vyšla ve Spektrum Rožnovska v dotazech na názory místních politických sdružení a stran.*
+<small><small><i>Tato odpověď vyšla ve Spektrum Rožnovska v dotazech na názory místních politických sdružení a stran.</i></small></small>
 ---
