@@ -21,7 +21,7 @@ Nejde nám ale jen o jedny volby, i když budou tak důležité. Chceme v region
 
 Garantem projektu je místopředsedkyně České pirátské strany Olga Richterová.
 
-Máte chuť se přidat? Budete vítání. Sledujte tuto Facebookovou stránku [Facebookovou stránku](https://www.facebook.com/seniorinapalube) nebo se nám ozvěte na e-mail seniori@pirati.cz. Budeme také rádi, když o nás řeknete svým známým.
+Máte chuť se přidat? Budete vítání. Sledujte tuto [Facebookovou stránku](https://www.facebook.com/seniorinapalube) nebo se nám ozvěte na e-mail seniori@pirati.cz. Budeme také rádi, když o nás řeknete svým známým.
 
 Těšíme se, že se s vámi potkáme na palubě. 🖤🏴‍☠️⛵ 
 ---
