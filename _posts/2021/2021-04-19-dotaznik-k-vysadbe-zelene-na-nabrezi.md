@@ -22,7 +22,7 @@ Podrobnosti o projektu nalezete na stránkách města [zde](https://www.roznov.c
 
 
 
-## Dotazník naleznete zde [zde](https://forms.gle/8n7w6HSz5miibRqz6)
+## Dotazník naleznete [zde](https://forms.gle/8n7w6HSz5miibRqz6)
 
 Jedna z častých připomínek bylo možné zaclonění výhledu od řeky na Černou horu. <br>Na následujících fotomontážích lze vidět, že výhled nebude nijak ovlivněn.
 
