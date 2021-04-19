@@ -23,11 +23,16 @@ Podrobnosti o projektu nalezete na stránkách města [zde](https://www.roznov.c
 
 
 Dotazník naleznete zde <br>
-<a href="https://forms.gle/8n7w6HSz5miibRqz6" class="super-button bg-grey-125">
-  <span class="super-button__body">Dotazník k výsadbě zeleně</span>
-  
+<a href="https://forms.gle/8n7w6HSz5miibRqz6">
+ <button class="btn ">
+  <div class="btn__body ">Dotazník k výsadbě zeleně</div>
+</button>
 </a>
 
+Jedna z častých připomínek bylo zaclonění výhledu na Černou horu. Na následujících obrázkách lze vidět, že výhled nebude nijak ovlivněn.
 
-Těšíme se na vaše názory a připomínky. 🖤🏴‍☠️ 
+![vyhled1](assets/img/posts/vyhled1.jpg)
+![vyhled2](assets/img/posts/vyhled1.jpg)
+![vyhled3](assets/img/posts/vyhled1.jpg)
+![vyhled4](assets/img/posts/vyhled1.jpg)
 ---
