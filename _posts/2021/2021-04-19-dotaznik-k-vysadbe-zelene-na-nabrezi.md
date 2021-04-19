@@ -24,10 +24,10 @@ Podrobnosti o projektu nalezete na stránkách města [zde](https://www.roznov.c
 
 ## Dotazník naleznete zde [zde](https://forms.gle/8n7w6HSz5miibRqz6)
 
-Jedna z častých připomínek bylo zaclonění výhledu na Černou horu. Na následujících obrázkách lze vidět, že výhled nebude nijak ovlivněn.
+Jedna z častých připomínek bylo možné zaclonění výhledu od řeky na Černou horu. Na následujících fotomontážích lze vidět, že výhled nebude nijak ovlivněn.
 
-![vyhled1](posts/vyhled1.jpg)
-![vyhled2](posts/vyhled2.jpg)
-![vyhled3](posts/vyhled3.jpg)
-![vyhled4](posts/vyhled4.jpg)
+![vyhled1](https://roznov.pirati.cz/assets/img/posts//vyhled1.jpg)
+![vyhled2](https://roznov.pirati.cz/assets/img/posts//vyhled2.jpg)
+![vyhled3](https://roznov.pirati.cz/assets/img/posts//vyhled3.jpg)
+![vyhled4](https://roznov.pirati.cz/assets/img/posts//vyhled4.jpg)
 ---
