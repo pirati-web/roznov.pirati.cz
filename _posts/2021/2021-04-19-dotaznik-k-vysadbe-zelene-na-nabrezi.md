@@ -22,10 +22,10 @@ Podrobnosti o projektu nalezete na stránkách města [zde](https://www.roznov.c
 
 
 
-Dotazník naleznete zde 
+Dotazník naleznete zde <br>
 <a href="https://forms.gle/8n7w6HSz5miibRqz6" class="super-button bg-grey-125">
   <span class="super-button__body">Dotazník k výsadbě zeleně</span>
-  <i class="super-button__icon ico--pirati"></i>
+  
 </a>
 
 
