@@ -14,7 +14,7 @@ tags:
 
 # important: true
 ---
-Milí příznivci, přinášíme naše postřehy ze zasedání zastupitelstva Rožnova p.R., které proběhlo 20. dubna 2021. Přečtěte si, naše krátké komentáře k vybraným bodům zasedání.
+Milí příznivci, přinášíme naše postřehy ze zasedání zastupitelstva, které proběhlo 20. dubna 2021. Přečtěte si naše krátké komentáře k vybraným bodům zasedání.
 <br>Toto zasedání mělo hojnou účast občanů, bylo chvilkami hodně emotivní a bylo to jedno z nejdelších zasedání trvající až do 22.30 hodin.
 
 Celé zasedání je podrobně k dispozici na záznamu [ZDE](https://www.tvbeskyd.cz/zastupitelstvo-mesta-roznov-pod-radhostem/).
@@ -25,13 +25,13 @@ Celé zasedání je podrobně k dispozici na záznamu [ZDE](https://www.tvbeskyd
 
 Rozpočtové opatření jsme **podpořili**. Ze seznamu výdajových položek vítáme zejména schválení financí na dlouho očekávanou rekonstrukci ulice Vítězná. 
 
-**Bod 6 – Smlouva o poskytnutí dalšího finančního příspěvku-financování autobusové linky Dolní Paseky** 
+**Bod 6 – Smlouva o poskytnutí dalšího finančního příspěvku, financování autobusové linky Dolní Paseky** 
 
 **Podpořili** jsme příspěvek pro rok 2021 ve výši 690 000 Kč na provoz autobusové linky na Dolní Paseky.
 
 **Bod 8 – Aktualizace obecně závazné vyhlášky o místních poplatcích** 
 
-**Bod 8.1.** - jsme **podpořili** osvobození z platby letošních poplatků za předzahrádeky.
+**Bod 8.1.** - jsme **podpořili** osvobození z platby letošních poplatků za předzahrádky.
 
 **Bod 8.2.** - projednávání tohoto bodu se účastnila i velká skupina provozovatelů místních hotelů a ubytování. Přišli požádat zastupitelstvo o snížení nebo osvobození od letošních poplatků za ubytování.
 V roce 2019 bylo totiž schváleno navýšení letošních poplatků na 50,- Kč za pobyt na den. V té době byla na navýšení poplatků shoda, ale nikdo taky netušil, že další rok dojde k lockdownu. 
@@ -39,11 +39,11 @@ Město nyní přišlo s návrhem 50% slevy z poplatku od 5. dne ubytování.
 S takovým řešením nebyli provozovatelé spokojeni z důvodu uzavření ubytovacích služeb a letošních nulových tržeb v souvislosti s opatřením proti Covid-19 a 
 nejistém výhledu letošního opětovného zahájení provozu. 
 <br>Během jednání jsme podali **protinávrh**, kde jsme navrhli ponechat výši letošních poplatků stejnou jako loňský rok tj. 21,- Kč. 
-Rada města se o přestávce velmi dlouho tímto návrhem zaobírala, nakonec jsme však nedosáhli potřebného počtu pro schválení a byl tak přijak původní návrh.
+Rada města se o přestávce velmi dlouho tímto návrhem zaobírala, nakonec jsme však nedosáhli potřebného počtu pro schválení a byl tak přijat původní návrh.
 
 **Bod 8 – Schválení Darovací smlouvy v souvislosti s hromadnou otravou ryb v řece Bečvě** 
 
-**Podpořili** jsme schválení daru 100.000,- Kč Českému svazu rybářů, který by měl použít k přímé likvidaci škod po ekologické havárii na řece Bečvě.
+**Podpořili** jsme schválení daru 100.000,- Kč Českému svazu rybářů, který by ho měl použít k přímé likvidaci škod po ekologické havárii na řece Bečvě.
 
 **Bod 25 – Informace k projektu “Revitalizace části nábřeží Dukelských hrdinů”** 
 
