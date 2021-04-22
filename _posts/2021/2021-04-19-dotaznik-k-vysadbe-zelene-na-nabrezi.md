@@ -2,8 +2,8 @@
 layout: post
 category: CLANKY
 title: Dotazník k výsadbě zeleně na nábřeží Dukelských hrdinů
-date: 2021-01-30
-author: Libor Adámek
+date: 2021-04-19
+author: Piráti Rožnov
 authorId: libor.adamek
 image: posts/dotaznik-zelen.png  
 tags: 
