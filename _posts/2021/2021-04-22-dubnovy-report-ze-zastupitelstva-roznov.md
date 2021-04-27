@@ -14,7 +14,7 @@ tags:
 
 # important: true
 ---
-Milí příznivci, přinášíme naše postřehy ze zasedání zastupitelstva, které proběhlo 20. dubna 2021. Přečtěte si naše krátké komentáře k vybraným bodům zasedání.
+Přinášíme krátký souhrn ze zasedání zastupitelstva, které proběhlo 20. dubna 2021. 
 <br>Toto zasedání mělo hojnou účast občanů, bylo chvilkami hodně emotivní a bylo to jedno z nejdelších zasedání trvající až do 22.30 hodin.
 
 Celé zasedání je podrobně k dispozici na záznamu [ZDE](https://www.tvbeskyd.cz/zastupitelstvo-mesta-roznov-pod-radhostem/).
