@@ -38,7 +38,7 @@ Rada města se o přestávce velmi dlouho tímto návrhem zaobírala, nakonec js
 
 U projektu “Revitalizace části nábřeží Dukelských hrdinů” se vedla živá diskuze na facebokových stránkách města a proto jsme očekávali velkou účast odpůrců zeleně na nábřeží. Překvapilo nás však, že přišli jen 3 občané. Diskuze zastupitelů a občanů byla však podnětná a na celkové podobě projektu bude město ještě pracovat.
 Jako důležité vidíme posouzení stavu a únosnosti opěrné zdi nábřeží.
-<br>Také i my nadále sbírame připomínky v našem [dotazníku](https://roznov.pirati.cz/tiskove-zpravy/dotaznik-k-vysadbe-zelene-na-nabrezi/) a budeme rádi pokud se nám v něm taky vyjádříte. 
+<br>Také i my nadále sbírame připomínky v našem **[dotazníku k zeleni na nábřeží](https://roznov.pirati.cz/tiskove-zpravy/dotaznik-k-vysadbe-zelene-na-nabrezi/)** a budeme rádi pokud se nám v něm taky vyjádříte. 
 
 **Podpořili** jsme zvolený návrh postupu při převodu městských sportovišť do jedné příspěvkové organizace. 
 
