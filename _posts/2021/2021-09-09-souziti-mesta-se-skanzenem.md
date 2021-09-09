@@ -5,7 +5,7 @@ title: 'Komentář Zdeňka Třose k soužití města Rožnova se skanzenem'
 date: 2021-09-09
 author: Zdeněk Třos
 authorId: zdenek.tros
-image: posts/zdenek2.jpg  
+image: posts/zdenek-muzeum.jpg  
 tags: 
 - zdenek-tros
 - Roznov
