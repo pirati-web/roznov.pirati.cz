@@ -12,7 +12,7 @@ tags:
 - Roznov
 - pirati
 
-# important: true
+important: true
 ---
 V roce 2018 jsme do voleb kandidovali s tím, že jsme jednoznačně pro výstavbu nového kulturního centra. Rožnov si nové a důstojné kulturní centrum rozhodně zaslouží, ale za jakou cenu? Podmínkou pro nás bylo, že si pohlídáme, aby se stavba zbytečně nepředražovala a financování bylo transparentní. V důležitých hlasováních jsme tuto stavbu doposud vždy podporovali, na prosincovém zastupitelstvu jsme podpořili hledání dalších zdrojů financí i přes zvýšenou cenu, která vzešla z posledního výběrového řízení. Včera na mimořádném zastupitelstvu jsme ale hlasovali proti přijetí úvěru, ze kterého se má stavba financovat.
 
